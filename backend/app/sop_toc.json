@@ -1,0 +1,4671 @@
+{
+  "categories": {
+    "Advertising": [
+      {
+        "id": "advertising-sop-prime-day-advertising-actions",
+        "title": "Advertising SOP: Prime Day Advertising Actions",
+        "keywords": [
+          "Prime Day Ads",
+          "Amazon Ads",
+          "ACOS optimization",
+          "Bulk file edits",
+          "Budget rules"
+        ]
+      },
+      {
+        "id": "advertising-sop-setting-up-a-sponsored-display-campaign",
+        "title": "Advertising SOP: Setting Up a Sponsored Display Campaign",
+        "keywords": [
+          "Sponsored Display",
+          "Amazon Advertising",
+          "PPC Campaigns",
+          "Remarketing Audiences",
+          "ASIN Selection"
+        ]
+      },
+      {
+        "id": "advertising-sop-how-to-download-advertising-invoice",
+        "title": "Advertising SOP: How to Download Advertising Invoice",
+        "keywords": [
+          "Seller Central",
+          "Sponsored Ads Billing",
+          "Advertising invoice",
+          "Campaign Manager",
+          "Download invoice"
+        ]
+      },
+      {
+        "id": "ppc-faqs-to-enrich-your-amazon-advertising-knowledge",
+        "title": "PPC FAQs To Enrich Your Amazon Advertising Knowledge",
+        "keywords": [
+          "Amazon PPC",
+          "Search Term Reports",
+          "duplicate keywords",
+          "negative keywords",
+          "long-tail keywords"
+        ]
+      },
+      {
+        "id": "advertising-sop-best-practices-on-campaign-segmentation",
+        "title": "Advertising SOP: Best Practices on Campaign Segmentation",
+        "keywords": [
+          "Amazon PPC",
+          "campaign segmentation",
+          "keyword targeting",
+          "Sponsored Products",
+          "ASIN segmentation"
+        ]
+      },
+      {
+        "id": "advertising-sop-budget-expectation",
+        "title": "Advertising SOP: Budget Expectation",
+        "keywords": [
+          "Amazon advertising",
+          "budget checks",
+          "ACOS optimization",
+          "negative keywords",
+          "bid calculation"
+        ]
+      },
+      {
+        "id": "advertising-sop-for-excel-macro-usage-streamlining-bulk-file-filtering-and-bulk-optimizations",
+        "title": "Advertising SOP for Excel Macro Usage: Streamlining Bulk File Filtering and Bulk Optimizations",
+        "keywords": [
+          "Amazon Advertising",
+          "Excel Macros",
+          "Bulk File",
+          "Sponsored Brands",
+          "Bulk Optimizations"
+        ]
+      },
+      {
+        "id": "advertising-sop-adding-a-sku-to-an-existing-campaign-using-bulk-file",
+        "title": "Advertising SOP: Adding a SKU to an Existing Campaign Using Bulk File",
+        "keywords": [
+          "Amazon Advertising",
+          "Sponsored Products",
+          "Bulk file upload",
+          "Add SKU",
+          "ASIN mapping"
+        ]
+      },
+      {
+        "id": "advertising-sop-setting-budget-for-campaigns",
+        "title": "Advertising SOP: Setting Budget for Campaigns",
+        "keywords": [
+          "Amazon advertising",
+          "campaign budget",
+          "Sponsored Products",
+          "daily budget formula",
+          "ASIN campaign strategy"
+        ]
+      },
+      {
+        "id": "advertising-sop-bulk-operations---bid-adjustment",
+        "title": "Advertising SOP: Bulk Operations - Bid Adjustment",
+        "keywords": [
+          "Amazon Advertising",
+          "Bulk Bid Adjustment",
+          "Sponsored Products",
+          "ACOS Optimization",
+          "Campaign Manager"
+        ]
+      },
+      {
+        "id": "advertising-sop-uploading-backup-file-through-bulk-operations",
+        "title": "Advertising SOP: Uploading Backup File through Bulk Operations",
+        "keywords": [
+          "Amazon Advertising",
+          "Bulk Operations",
+          "Bulk Spreadsheet",
+          "Campaign upload",
+          "Bid management"
+        ]
+      },
+      {
+        "id": "advertising-sop-creating-an-advertising-report",
+        "title": "Advertising SOP: Creating an Advertising Report",
+        "keywords": [
+          "Amazon advertising",
+          "Sponsored Ads Report",
+          "Seller Central reports",
+          "Campaign Manager",
+          "Advertising analytics"
+        ]
+      },
+      {
+        "id": "advertising-sop-how-to-change-campaign-names-in-bulk",
+        "title": "Advertising SOP: How to Change Campaign Names in Bulk",
+        "keywords": [
+          "Amazon Advertising",
+          "bulk campaign rename",
+          "Bulk Sheet",
+          "ad group rename",
+          "PPC bulk edits"
+        ]
+      },
+      {
+        "id": "advertising-sop-advertising-first-time-setup-and-segmentation",
+        "title": "Advertising SOP: Advertising First-Time Setup and Segmentation",
+        "keywords": [
+          "Amazon PPC",
+          "ad segmentation",
+          "keyword research",
+          "campaign structure",
+          "bid strategy"
+        ]
+      },
+      {
+        "id": "advertising-sop-deduplicator-tool",
+        "title": "Advertising SOP: DEDUPLICATOR TOOL",
+        "keywords": [
+          "Amazon PPC",
+          "keyword deduplication",
+          "Sponsored Products",
+          "Sponsored Brands",
+          "match type"
+        ]
+      },
+      {
+        "id": "advertising-sop-sponsored-products-purchased-product-report",
+        "title": "Advertising SOP: Sponsored Products Purchased Product Report",
+        "keywords": [
+          "Sponsored Products",
+          "Purchased Product Report",
+          "Campaign Manager",
+          "Purchase attribution",
+          "Pivot table"
+        ]
+      },
+      {
+        "id": "advertising-sop-sponsored-products-placement-report",
+        "title": "Advertising SOP: Sponsored Products Placement Report",
+        "keywords": [
+          "Sponsored Products",
+          "Placement report",
+          "Amazon Seller Central",
+          "ACOS optimization",
+          "Pivot table"
+        ]
+      },
+      {
+        "id": "advertising-sop-steps-to-reduction-of-wasted-spend-overspending-account",
+        "title": "Advertising SOP: Steps to Reduction of Wasted Spend (Overspending Account)",
+        "keywords": [
+          "Amazon Advertising",
+          "Search Term Negations",
+          "Bulk File Analysis",
+          "Down Only Bidding",
+          "ACOS Reduction"
+        ]
+      },
+      {
+        "id": "quick-reference-guide-uploading-keywords-and-bids-via-file-in-ppc-campaigns",
+        "title": "Quick Reference Guide: Uploading Keywords and Bids via File in PPC Campaigns",
+        "keywords": [
+          "PPC bulk upload",
+          "CSV keyword upload",
+          "Excel keyword upload",
+          "bid management",
+          "campaign keyword import"
+        ]
+      },
+      {
+        "id": "advertising-sop-how-to-conduct-keyword-and-asin-research",
+        "title": "Advertising SOP: How to Conduct Keyword and ASIN Research",
+        "keywords": [
+          "Amazon keyword research",
+          "ASIN research",
+          "Helium 10 Cerebro",
+          "Brand Analytics",
+          "Amazon PPC"
+        ]
+      },
+      {
+        "id": "advertising-sop-sponsored-product-targeting-report",
+        "title": "Advertising SOP: Sponsored Product Targeting Report",
+        "keywords": [
+          "Sponsored Products",
+          "Targeting report",
+          "Amazon Advertising",
+          "ASIN targeting",
+          "Keyword targeting"
+        ]
+      },
+      {
+        "id": "advertising-sop-bulk-negation-tool",
+        "title": "Advertising SOP: Bulk Negation Tool",
+        "keywords": [
+          "Bulk Negation",
+          "Search Term Negation",
+          "Sponsored Products",
+          "Negative Keywords",
+          "ACOS Thresholds"
+        ]
+      },
+      {
+        "id": "advertising-sop-how-to-find-skus-that-are-not-being-advertised",
+        "title": "Advertising SOP: How to find SKUs that are not being advertised",
+        "keywords": [
+          "Amazon PPC",
+          "SKU audit",
+          "Sponsored Products",
+          "Active Listing Report",
+          "Bulk file"
+        ]
+      },
+      {
+        "id": "advertising-sop-how-advertising-bidding-strategies-work",
+        "title": "Advertising SOP: How Advertising Bidding Strategies Work",
+        "keywords": [
+          "Amazon ad bidding",
+          "Fixed bids",
+          "Dynamic bids",
+          "Rule-based bidding",
+          "ACOS optimization"
+        ]
+      },
+      {
+        "id": "catalog-sop-download-a-sales-dashboard-report",
+        "title": "Catalog SOP: Download a Sales Dashboard Report",
+        "keywords": [
+          "Sales Dashboard",
+          "Business Reports",
+          "Seller Central",
+          "Download CSV",
+          "Fulfillment Channel"
+        ]
+      },
+      {
+        "id": "advertising-sop-setting-up-a-budget-cap",
+        "title": "Advertising SOP: Setting Up a Budget Cap",
+        "keywords": [
+          "Amazon Advertising",
+          "Budget cap",
+          "Sponsored Products",
+          "Campaign daily budget",
+          "ACOS optimization"
+        ]
+      },
+      {
+        "id": "advertising-sop-how-to-convert-up--down-bidding-strategy-account-to-down-only",
+        "title": "Advertising SOP: How to Convert Up & Down Bidding Strategy Account to Down Only",
+        "keywords": [
+          "Amazon Advertising",
+          "Down Only bidding",
+          "Up & Down bidding",
+          "Bulk upload",
+          "CPC adjustment"
+        ]
+      },
+      {
+        "id": "advertising-sop-master-ads-sop-with-existing-campaigns",
+        "title": "Advertising SOP: Master Ads SOP (With Existing Campaigns)",
+        "keywords": [
+          "Amazon Ads SOP",
+          "Master Campaigns",
+          "ASIN segmentation",
+          "ACOS optimization",
+          "Sponsored Products strategy"
+        ]
+      },
+      {
+        "id": "advertising-sop-campaigns-in-every-account",
+        "title": "Advertising SOP: Campaigns in every Account",
+        "keywords": [
+          "Amazon PPC",
+          "ASIN grouping",
+          "Sponsored Products",
+          "Campaign structure",
+          "Sponsored Display"
+        ]
+      },
+      {
+        "id": "advertising-sop-how-to-set-up-ad-campaigns-on-seller-central",
+        "title": "Advertising SOP: How to Set Up Ad Campaigns on Seller Central",
+        "keywords": [
+          "Seller Central ads",
+          "Amazon PPC",
+          "Sponsored Products",
+          "Down Only bidding",
+          "Competitor targeting"
+        ]
+      },
+      {
+        "id": "advertising-sop-analyzing-ad-account-using-restock-report",
+        "title": "Advertising SOP: Analyzing Ad Account using Restock Report",
+        "keywords": [
+          "Amazon FBA",
+          "Restock Report",
+          "Advertised Product Report",
+          "Ad account audit",
+          "Organic FBA sales"
+        ]
+      },
+      {
+        "id": "advertising-sop-amazon-advertising-reports",
+        "title": "Advertising SOP: Amazon Advertising Reports",
+        "keywords": [
+          "Amazon Advertising",
+          "Search Term Impression Share",
+          "Targeting Report",
+          "Budget Report",
+          "ACoS"
+        ]
+      },
+      {
+        "id": "advertising-sop-find-overoptimized-underoptimized-or-wasted-spend-targets-using-bulk",
+        "title": "Advertising SOP: Find Overoptimized, Underoptimized, or Wasted Spend Targets Using Bulk",
+        "keywords": [
+          "Amazon Advertising",
+          "Bulk File",
+          "Bid Optimization",
+          "ACoS Analysis",
+          "Wasted Ad Spend"
+        ]
+      },
+      {
+        "id": "advertising-sop-budget-rules",
+        "title": "Advertising SOP: Budget Rules",
+        "keywords": [
+          "Amazon PPC",
+          "Budget rules",
+          "ACOS optimization",
+          "Campaign budgeting",
+          "Ad spend automation"
+        ]
+      },
+      {
+        "id": "advertising-sop-how-to-delete-scheduled-advertising-reports",
+        "title": "Advertising SOP: How to Delete Scheduled Advertising Reports",
+        "keywords": [
+          "Seller Central",
+          "Advertising Reports",
+          "Scheduled Reports",
+          "Report Deletion",
+          "Amazon Advertising"
+        ]
+      },
+      {
+        "id": "advertising-sop-negation-guidance",
+        "title": "Advertising SOP: Negation Guidance",
+        "keywords": [
+          "Search term negation",
+          "ASIN negation",
+          "Sponsored Products",
+          "ACOS threshold",
+          "Amazon ad optimization"
+        ]
+      },
+      {
+        "id": "advertising-sop-how-to-find-asin-based-acos-and-conversion-rate-in-ad-account",
+        "title": "Advertising SOP: How to find ASIN-based ACOS and Conversion Rate in Ad Account",
+        "keywords": [
+          "Amazon Advertising",
+          "ASIN ACOS",
+          "ASIN Conversion Rate",
+          "Campaign Manager",
+          "Seller Central"
+        ]
+      }
+    ],
+    "AI": [
+      {
+          "id": "ai-sop-utilizing-chatgpt-for-appeal-writing",
+          "title": "AI SOP: Utilizing ChatGPT for Appeal Writing",
+          "keywords": [
+              "appeal writing",
+              "ChatGPT appeals",
+              "Plan of Action",
+              "ASIN suspension",
+              "Seller Performance"
+          ]
+      },
+      {
+          "id": "ai-sop-review-analysis-with-chatgpt",
+          "title": "AI SOP: Review Analysis with ChatGPT",
+          "keywords": [
+              "Review analysis",
+              "ChatGPT",
+              "Amazon reviews",
+              "Sentiment analysis",
+              "Purchase intent"
+          ]
+      },
+      {
+          "id": "ai-sop-creating-product-listing-with-chatgpt",
+          "title": "AI SOP: Creating Product Listing with ChatGPT",
+          "keywords": [
+              "product listing",
+              "Amazon SEO",
+              "ChatGPT copywriting",
+              "Amazon FBA",
+              "listing optimization"
+          ]
+      },
+      {
+          "id": "ai-sop-generating-product-ideas-with-chatgpt",
+          "title": "AI SOP: Generating Product Ideas with ChatGPT",
+          "keywords": [
+              "AI product ideation",
+              "ChatGPT prompts",
+              "prompt engineering",
+              "e-commerce product research",
+              "Amazon FBA"
+          ]
+      },
+      {
+          "id": "ai-sop-chatgpt-powered-optimization-in-brand-communication-and-customer-engagement",
+          "title": "AI SOP: ChatGPT-powered Optimization in Brand Communication and Customer Engagement",
+          "keywords": [
+              "ChatGPT prompts",
+              "AI branding",
+              "brand voice",
+              "customer engagement",
+              "Amazon seller"
+          ]
+      },
+      {
+          "id": "ai-sop-conducting-keyword-research-with-chatgpt",
+          "title": "AI SOP: Conducting Keyword Research with ChatGPT",
+          "keywords": [
+              "Amazon keyword research",
+              "ChatGPT SOP",
+              "Broad match modifier",
+              "Amazon PPC",
+              "Product listing optimization"
+          ]
+      },
+      {
+          "id": "ai-sop-optimizing-listing-prompts-for-chat-gpt",
+          "title": "AI SOP: Optimizing Listing Prompts for Chat GPT",
+          "keywords": [
+              "ChatGPT prompts",
+              "Amazon listings",
+              "Amazon SEO",
+              "Product listing optimization",
+              "E-commerce copywriting"
+          ]
+      },
+      {
+          "id": "ai-sop-bonus-chatgpt-prompts",
+          "title": "AI SOP: Bonus ChatGPT Prompts",
+          "keywords": [
+              "ChatGPT prompts",
+              "Amazon Seller Central",
+              "product research",
+              "ASIN hijacking",
+              "DALL\u00b7E visuals"
+          ]
+      },
+      {
+          "id": "ai-sop-conducting-blog-prompts-with-chatgpt",
+          "title": "AI SOP: Conducting Blog Prompts with ChatGPT",
+          "keywords": [
+              "chatgpt prompts",
+              "amazon affiliate",
+              "seo blog prompts",
+              "youtube review scripts",
+              "prompt engineering"
+          ]
+      },
+      {
+          "id": "ai-sop-delivering-excellent-customer-service-through-chatgpt",
+          "title": "AI SOP: Delivering Excellent Customer Service through ChatGPT",
+          "keywords": [
+              "ChatGPT customer service",
+              "Amazon customer support",
+              "prompt templates",
+              "escalation procedures",
+              "customer data security"
+          ]
+      }
+    ],
+    "Catalog": [
+      {
+          "id": "catalog-sop-how-to-fix-errors-in-the-vine-program-on-seller-central",
+          "title": "Catalog SOP: How to Fix Errors in the Vine Program on Seller Central",
+          "keywords": [
+              "Amazon Vine",
+              "Vine enrollment",
+              "ASIN errors",
+              "Seller Central",
+              "Brand Registry"
+          ]
+      },
+      {
+          "id": "troubleshooting-sop-how-to-email-seller-executive-relations",
+          "title": "Troubleshooting SOP: How to Email Seller Executive Relations",
+          "keywords": [
+              "Seller Executive Relations",
+              "Seller Central",
+              "Merchant Token",
+              "Amazon seller support",
+              "Search suppression"
+          ]
+      },
+      {
+          "id": "catalog-sop-breaking-a-phantom-parentage",
+          "title": "Catalog SOP: Breaking a Phantom Parentage",
+          "keywords": [
+              "Phantom parentage",
+              "Variation Wizard",
+              "ASIN unlinking",
+              "Brand Registry",
+              "Catalog escalation"
+          ]
+      },
+      {
+          "id": "catalog-sop-return-status-and-issue-refunds-mfn",
+          "title": "Catalog SOP: Return Status and Issue Refunds (MFN)",
+          "keywords": [
+              "MFN returns",
+              "Seller Central",
+              "issue refunds",
+              "restocking fee",
+              "A-to-Z claims"
+          ]
+      },
+      {
+          "id": "brand-registry-sop-how-to-submit-a-ticket-to-brand-registry",
+          "title": "Brand Registry SOP: How to Submit a Ticket to Brand Registry",
+          "keywords": [
+              "Brand Registry ticket",
+              "merchant token",
+              "Case ID",
+              "Seller Central",
+              "Amazon Brand Support"
+          ]
+      },
+      {
+          "id": "catalog-sop-manual-update-of-listing-attributes-in-vendor-central",
+          "title": "Catalog SOP: Manual Update of Listing Attributes in Vendor Central",
+          "keywords": [
+              "Vendor Central",
+              "listing attributes",
+              "catalog management",
+              "ASIN bulk edit",
+              "product title"
+          ]
+      },
+      {
+          "id": "account-audit----client-name-template",
+          "title": "Account Audit  - Client Name (Template)",
+          "keywords": [
+              "Amazon account audit",
+              "Seller Central",
+              "ACOS management",
+              "IPI score",
+              "Listing quality"
+          ]
+      },
+      {
+          "id": "catalog-sop-viewing-coupon-costs-and-performance",
+          "title": "Catalog SOP: Viewing Coupon Costs and Performance",
+          "keywords": [
+              "Coupon costs",
+              "Coupon performance",
+              "Seller Central coupons",
+              "Promotional rebates",
+              "Redemption fee"
+          ]
+      },
+      {
+          "id": "catalog-sop-product-document-upload",
+          "title": "Catalog SOP: Product Document Upload",
+          "keywords": [
+              "Seller Central",
+              "Product Document Upload",
+              "Compliance media",
+              "Flat file upload",
+              "Manage All Inventory"
+          ]
+      },
+      {
+          "id": "logistics-sop-how-to-enroll-and-use-multi-location-inventory-mli",
+          "title": "Logistics SOP: How to Enroll and Use Multi-Location Inventory (MLI)",
+          "keywords": [
+              "Multi-Location Inventory",
+              "Shipping Settings Automation",
+              "Seller Central",
+              "MLI API",
+              "Inventory sync"
+          ]
+      },
+      {
+          "id": "catalog-sop-creating-promotion-code",
+          "title": "Catalog SOP: Creating Promotion Code",
+          "keywords": [
+              "Amazon promotions",
+              "promotion codes",
+              "Seller Central",
+              "Social Media Promo Code",
+              "Buy Box"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-download-an-active-listings-report",
+          "title": "Catalog SOP: How to download an Active Listings Report",
+          "keywords": [
+              "Active Listings Report",
+              "Amazon Seller Central",
+              "Inventory Reports",
+              "tab-delimited TXT",
+              "catalog management"
+          ]
+      },
+      {
+          "id": "catalog-sop-feed-processing-error-code---5665",
+          "title": "Catalog SOP: Feed Processing Error Code - 5665",
+          "keywords": [
+              "Error 5665",
+              "Flat file",
+              "Brand Registry",
+              "Feed processing",
+              "Amazon catalog"
+          ]
+      },
+      {
+          "id": "catalog-sop-managing-inventory-amazon-fulfills",
+          "title": "Catalog SOP: Managing Inventory Amazon Fulfills",
+          "keywords": [
+              "Amazon FBA",
+              "FBA inventory",
+              "Inventory Amazon Fulfills",
+              "FBA inventory report",
+              "On-hand inventory"
+          ]
+      },
+      {
+          "id": "quick-reference-guide-amazon-warehousing-and-distribution-awd-inventory-dashboard",
+          "title": "Quick Reference Guide: Amazon Warehousing and Distribution (AWD) Inventory Dashboard",
+          "keywords": [
+              "AWD Inventory",
+              "Inventory Dashboard",
+              "FBA replenishment",
+              "Automated Replenishment Ratio",
+              "Undistributable Inventory"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-set-up-a-coupon",
+          "title": "Catalog SOP: How to Set Up a Coupon",
+          "keywords": [
+              "Amazon Coupons",
+              "Coupon setup",
+              "Bulk coupon upload",
+              "Coupon budget",
+              "ASIN limits"
+          ]
+      },
+      {
+          "id": "catalog-sop-vine-setup",
+          "title": "Catalog SOP: Vine Setup",
+          "keywords": [
+              "Amazon Vine",
+              "Vine enrollment",
+              "FBA reviews",
+              "Pre-launch reviews",
+              "Enrollment tiers"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-update-a-variation-theme",
+          "title": "Catalog SOP: How to Update a Variation Theme",
+          "keywords": [
+              "Variation Theme",
+              "Parentage Update",
+              "Flat File Upload",
+              "Fulfillment Center ID",
+              "FBA Compliance"
+          ]
+      },
+      {
+          "id": "merchandising-sop-a-b-test-product-title",
+          "title": "Merchandising SOP: A/B Test (Product Title)",
+          "keywords": [
+              "A/B testing",
+              "Product Title",
+              "Seller Central",
+              "Listing Optimization",
+              "Manage Experiments"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-download-an-open-listings-report-lite",
+          "title": "Catalog SOP: How to download an Open Listings Report Lite",
+          "keywords": [
+              "Open Listings Report Lite",
+              "Amazon Seller Central",
+              "Inventory Reports",
+              "catalog management",
+              "listing availability"
+          ]
+      },
+      {
+          "id": "brand-registry-sop-letter-of-authorization---creating-listings-for-non-brand-registered-accounts",
+          "title": "Brand Registry SOP: Letter of Authorization - Creating Listings for Non-Brand Registered Accounts",
+          "keywords": [
+              "Letter of Authorization",
+              "Brand Registry",
+              "Amazon Seller Central",
+              "ASINs",
+              "Private label"
+          ]
+      },
+      {
+          "id": "catalog-sop-product-authenticity-customer-complaint",
+          "title": "Catalog SOP: Product Authenticity Customer Complaint",
+          "keywords": [
+              "Product authenticity",
+              "Account Health",
+              "Plan of Action",
+              "ASIN flag",
+              "Brand authorization"
+          ]
+      },
+      {
+          "id": "catalog-sop-using-the-lister-loader-template",
+          "title": "Catalog SOP: Using the Lister Loader Template",
+          "keywords": [
+              "Listing Loader",
+              "Product Matching",
+              "ASIN mapping",
+              "Seller Central upload",
+              "UPC/EAN mapping"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-file-a-ticket-in-seller-central",
+          "title": "Catalog SOP: How to File a Ticket in Seller Central",
+          "keywords": [
+              "Seller Central",
+              "submit ticket",
+              "listing issues",
+              "Batch ID",
+              "SKU limits"
+          ]
+      },
+      {
+          "id": "catalog-sop-remove-unauthorized-sellers-hijackers",
+          "title": "Catalog SOP: Remove Unauthorized Sellers (Hijackers)",
+          "keywords": [
+              "Amazon Brand Registry",
+              "hijacker removal",
+              "counterfeit report",
+              "Buy Box protection",
+              "ASIN enforcement"
+          ]
+      },
+      {
+          "id": "catalog-sop-duplicating-a-content-to-another-marketplace",
+          "title": "Catalog SOP: Duplicating A+ Content to Another Marketplace",
+          "keywords": [
+              "A+ Content",
+              "Marketplace duplication",
+              "Brand Registry",
+              "ASIN linking",
+              "Localization compliance"
+          ]
+      },
+      {
+          "id": "catalog-sop-seller-central-urls",
+          "title": "Catalog SOP: Seller Central URLs",
+          "keywords": [
+              "Seller Central URLs",
+              "Amazon Seller Central",
+              "marketplace URLs",
+              "international marketplaces",
+              "seller account login"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-create-virtual-bundles",
+          "title": "Catalog SOP: How To Create Virtual Bundles",
+          "keywords": [
+              "Virtual Bundles",
+              "Amazon FBA",
+              "ASIN bundling",
+              "Brand Registry",
+              "Seller Central"
+          ]
+      },
+      {
+          "id": "supplemental-article-explore-brand-selection-tool",
+          "title": "Supplemental Article: Explore Brand Selection Tool",
+          "keywords": [
+              "Explore Brand Selection",
+              "Brand Registry",
+              "catalog management",
+              "product listing",
+              "listing drafts"
+          ]
+      },
+      {
+          "id": "catalog-sop-managing-suppressed-lightning-deals",
+          "title": "Catalog SOP: Managing Suppressed Lightning Deals",
+          "keywords": [
+              "Lightning Deals",
+              "Suppressed Deals",
+              "Seller Central",
+              "Maximum Deal Price",
+              "FBA inventory"
+          ]
+      },
+      {
+          "id": "catalog-sop-creating-promotion-terms-and-conditions",
+          "title": "Catalog SOP: Creating Promotion Terms and Conditions",
+          "keywords": [
+              "catalog promotions",
+              "promotion T&Cs",
+              "eligibility rules",
+              "promotional compliance",
+              "campaign setup"
+          ]
+      },
+      {
+          "id": "catalog-sop-creating-a-detail-page-sales-and-traffic-by-child-asin-report",
+          "title": "Catalog SOP: Creating a Detail Page Sales and Traffic by Child ASIN Report",
+          "keywords": [
+              "Detail Page Sales",
+              "Child ASIN",
+              "Seller Central",
+              "Business Reports",
+              "ASIN performance"
+          ]
+      },
+      {
+          "id": "catalog-sop-creating-a-sales-and-traffic-report-by-date",
+          "title": "Catalog SOP: Creating a Sales and Traffic Report by Date",
+          "keywords": [
+              "Seller Central",
+              "Business Reports",
+              "Sales Dashboard",
+              "Sales & Traffic",
+              "ASIN reporting"
+          ]
+      },
+      {
+          "id": "catalog-sop-amazon-policy-violations-check",
+          "title": "Catalog SOP: Amazon Policy Violations Check",
+          "keywords": [
+              "Amazon policy violations",
+              "Account Health",
+              "Seller Central",
+              "Plan of Action",
+              "ASIN suppression"
+          ]
+      },
+      {
+          "id": "catalog-sop-running-a-coupon-again",
+          "title": "Catalog SOP: Running a Coupon Again",
+          "keywords": [
+              "Seller Central",
+              "re-run coupon",
+              "Amazon Coupons",
+              "coupon management",
+              "coupon performance"
+          ]
+      },
+      {
+          "id": "supplemental-article-amazon-product-relaunch-best-practices",
+          "title": "Supplemental Article: Amazon Product Relaunch Best Practices",
+          "keywords": [
+              "Amazon relaunch",
+              "ASIN migration",
+              "listing optimization",
+              "backend keywords",
+              "review management"
+          ]
+      },
+      {
+          "id": "catalog-sop-viewing-buy-one-get-one-promotion-costs-and-performance",
+          "title": "Catalog SOP: Viewing Buy One Get One Promotion Costs and Performance",
+          "keywords": [
+              "BOGO promotion",
+              "referral fees",
+              "Seller Central",
+              "Payments report",
+              "Promotion Tracking ID"
+          ]
+      },
+      {
+          "id": "catalog-sop-brand-registry-roles",
+          "title": "Catalog: SOP: Brand Registry Roles",
+          "keywords": [
+              "Amazon Brand Registry",
+              "Brand Registry roles",
+              "Rights Owner",
+              "Registered Agent",
+              "Administrator role"
+          ]
+      },
+      {
+          "id": "vendor-central-sop-file-tickets-via-vendor-central",
+          "title": "Vendor Central SOP: File Tickets Via Vendor Central",
+          "keywords": [
+              "Vendor Central",
+              "Vendor Support",
+              "Detail Page Issues",
+              "ASIN support",
+              "Catalog management"
+          ]
+      },
+      {
+          "id": "brand-registry-sop-no-product-listed-in-store-brand-node-issue",
+          "title": "Brand Registry SOP: No Product Listed in Store (Brand Node Issue)",
+          "keywords": [
+              "Brand Node",
+              "No products listed",
+              "Brand Registry",
+              "Amazon Brand Store",
+              "Seller Central"
+          ]
+      },
+      {
+          "id": "merchandising-sop-amazon-list-price-mrsp",
+          "title": "Merchandising SOP: Amazon List Price MRSP",
+          "keywords": [
+              "Amazon List Price",
+              "MSRP",
+              "Seller Central",
+              "Flat file upload",
+              "Product Detail Page"
+          ]
+      },
+      {
+          "id": "catalog-sop-download-an-all-orders-report",
+          "title": "Catalog SOP: Download an All Orders Report",
+          "keywords": [
+              "Amazon Seller Central",
+              "All Orders Report",
+              "Fulfillment reports",
+              "Order Date filter",
+              "Download CSV"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-generate-a-replacements-report",
+          "title": "Catalog SOP: How to Generate a Replacements Report",
+          "keywords": [
+              "Replacements Report",
+              "Seller Central",
+              "Customer Concessions",
+              "Merchant SKU",
+              "Fulfillment reports"
+          ]
+      },
+      {
+          "id": "catalog-sop-brand-tailored-promotions",
+          "title": "Catalog SOP: Brand Tailored Promotions",
+          "keywords": [
+              "Brand Tailored Promotions",
+              "Amazon Seller Central",
+              "Audience Targeting",
+              "Promotion Budgeting",
+              "Amazon Brand Registry"
+          ]
+      },
+      {
+          "id": "best-practices-for-filing-a-case-against-bad-actors-and-handling-fake-reviews-in-amazon-1",
+          "title": "Best Practices for Filing a Case Against Bad Actors and Handling Fake Reviews in Amazon (1)",
+          "keywords": [
+              "Amazon fake reviews",
+              "review manipulation",
+              "Seller Central",
+              "Brand Registry",
+              "review brokers"
+          ]
+      },
+      {
+          "id": "catalog-sop-download-an-amazon-fulfilled-inventory-report",
+          "title": "Catalog SOP: Download an Amazon Fulfilled Inventory Report",
+          "keywords": [
+              "Amazon FBA",
+              "Seller Central",
+              "Fulfilled Inventory Report",
+              "Inventory Reports",
+              "Report download"
+          ]
+      },
+      {
+          "id": "catalog-sop-adding-editing-and-removing-videos",
+          "title": "Catalog SOP: Adding, Editing and Removing Videos",
+          "keywords": [
+              "listing videos",
+              "Seller Central",
+              "video upload",
+              "Brand Registry",
+              "catalog management"
+          ]
+      },
+      {
+          "id": "catalog-sop-parentage-check",
+          "title": "Catalog SOP: Parentage Check",
+          "keywords": [
+              "Parentage Check",
+              "Orphaned SKU",
+              "DPM vs DCM",
+              "Parent ASIN optimization",
+              "Variation Wizard"
+          ]
+      },
+      {
+          "id": "logistics-sop-how-to-move-inventory-in-amazon-warehousing-and-distribution-awd",
+          "title": "Logistics SOP: How to Move Inventory in Amazon Warehousing and Distribution (AWD)",
+          "keywords": [
+              "AWD",
+              "FBA Replenishment",
+              "Off-Amazon Distribution",
+              "Seller Central",
+              "Move Inventory"
+          ]
+      },
+      {
+          "id": "logistics-sop-send-to-amazon---how-to-create-fba-shipment",
+          "title": "Logistics SOP: Send to Amazon - How to Create FBA Shipment",
+          "keywords": [
+              "Send to Amazon",
+              "FBA shipment",
+              "SPD vs LTL",
+              "pack groups",
+              "inbound placement fee"
+          ]
+      },
+      {
+          "id": "catalog-sop-customer-service-by-amazon-for-seller-fulfilled-orders",
+          "title": "Catalog SOP: Customer Service by Amazon for Seller-Fulfilled Orders",
+          "keywords": [
+              "CSBA",
+              "seller-fulfilled orders",
+              "Case Log",
+              "CSBA Insights",
+              "Seller Central"
+          ]
+      },
+      {
+          "id": "catalog-sop-listing-partial-update-flat-file",
+          "title": "Catalog SOP: Listing Partial Update (Flat File)",
+          "keywords": [
+              "flat file",
+              "partial update",
+              "bulk listing",
+              "Seller Central",
+              "Category Listings Report"
+          ]
+      },
+      {
+          "id": "catalog-sop-error-8566",
+          "title": "Catalog SOP: Error 8566",
+          "keywords": [
+              "Amazon error 8566",
+              "Seller Central uploads",
+              "GS1 UPC verification",
+              "Brand Registry mismatch",
+              "Bulk upload limits"
+          ]
+      },
+      {
+          "id": "supplemental-article-maximizing-efficiency-with-amazon-warehousing-and-distribution-awd",
+          "title": "Supplemental Article: Maximizing Efficiency with Amazon Warehousing and Distribution (AWD)",
+          "keywords": [
+              "Amazon AWD",
+              "AWD eligibility",
+              "FBA replenishment",
+              "bulk inventory storage",
+              "Seller Central"
+          ]
+      },
+      {
+          "id": "supplemental-article-how-to-use-the-voice-of-the-customer-page-to-improve-your-listings-and-products",
+          "title": "Supplemental Article: How to Use the Voice of the Customer Page to Improve Your Listings and Products",
+          "keywords": [
+              "VoC",
+              "CX Health",
+              "NCX metrics",
+              "Root Cause Insights",
+              "listing optimization"
+          ]
+      },
+      {
+          "id": "catalog-sop-creating-multiple-offers-mfn--fba-for-an-asin",
+          "title": "Catalog SOP: Creating Multiple Offers (MFN + FBA) for an ASIN",
+          "keywords": [
+              "FBA",
+              "FBM",
+              "ASIN creation",
+              "flat file upload",
+              "Seller Central"
+          ]
+      },
+      {
+          "id": "catalog-sop-product-condition-customer-complaint-damaged-defective",
+          "title": "Catalog SOP: Product Condition Customer Complaint (Damaged/Defective)",
+          "keywords": [
+              "Product Condition Complaints",
+              "Amazon FBA",
+              "Packaging QC",
+              "Incoming Inspection",
+              "Order Defect Rate"
+          ]
+      },
+      {
+          "id": "catalog-sop-parentage-creation",
+          "title": "Catalog SOP: Parentage Creation",
+          "keywords": [
+              "Parentage creation",
+              "Amazon flat file",
+              "Variation theme",
+              "FBA/FBM SKUs",
+              "Seller Central"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-generate-an-aged-inventory-surcharge-report",
+          "title": "Catalog SOP: How to Generate an Aged Inventory Surcharge Report",
+          "keywords": [
+              "Aged Inventory Surcharge",
+              "Seller Central Reports",
+              "Amazon FBA Fees",
+              "Inventory Aging",
+              "Long-term Storage"
+          ]
+      },
+      {
+          "id": "supplemental-article-amazons-selling-policies-and-code-of-conduct",
+          "title": "Supplemental Article: Amazon\u2019s Selling Policies and Code of Conduct",
+          "keywords": [
+              "Amazon seller policies",
+              "code of conduct",
+              "account suspension",
+              "buyer-seller messaging",
+              "IP infringement"
+          ]
+      },
+      {
+          "id": "troubleshooting-sop-upc-upload-error-upc-codes-dont-match-product-fix",
+          "title": "Troubleshooting SOP: UPC Upload Error (UPC Codes Don't Match Product) Fix",
+          "keywords": [
+              "UPC upload error",
+              "GS1 UPC",
+              "UPC mismatch",
+              "Seller Central",
+              "GTIN exemption"
+          ]
+      },
+      {
+          "id": "catalog-sop-download-a-customer-shipment-sales-report",
+          "title": "Catalog SOP: Download a Customer Shipment Sales Report",
+          "keywords": [
+              "Customer Shipment Sales",
+              "Seller Central",
+              "Fulfillment Reports",
+              "CSV download",
+              "SP-API"
+          ]
+      },
+      {
+          "id": "troubleshooting-sop-stranded-inventory-inventory-error",
+          "title": "Troubleshooting SOP: Stranded Inventory (Inventory Error)",
+          "keywords": [
+              "Stranded Inventory",
+              "Amazon FBA",
+              "Category Listings Report",
+              "ASIN reactivation",
+              "Refresh stranded reason"
+          ]
+      },
+      {
+          "id": "catalog-sop-download-a-high-volumes-listing-report",
+          "title": "Catalog SOP: Download a High Volumes Listing Report",
+          "keywords": [
+              "High Volumes Listing",
+              "Seller Central",
+              "Inventory Reports",
+              "ASIN performance",
+              "sales metrics"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-create-check-status-and-cancel-an-outlet-deal-on-amazon",
+          "title": "Catalog SOP: How to Create, Check Status and Cancel an Outlet Deal on Amazon",
+          "keywords": [
+              "Amazon Outlet Deals",
+              "FBA inventory",
+              "Outlet Deals report",
+              "Create Outlet Deal",
+              "Cancel Outlet Deal"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-download-restock-inventory-report-in-seller-central",
+          "title": "Catalog SOP: How to Download Restock Inventory Report in Seller Central",
+          "keywords": [
+              "Restock Inventory",
+              "Seller Central",
+              "FBA inventory",
+              "Days of Supply",
+              "Selling Partner API"
+          ]
+      },
+      {
+          "id": "catalog-sop-purchase-quantity-variance-shortage-claims",
+          "title": "Catalog SOP: Purchase Quantity Variance Shortage Claims",
+          "keywords": [
+              "Purchase Quantity Variance",
+              "PQV shortage",
+              "Vendor Central",
+              "Invoice disputes",
+              "ASN reconciliation"
+          ]
+      },
+      {
+          "id": "catalog-sop-adding-skuasin-to-existing-parentage",
+          "title": "Catalog SOP: Adding SKU_ASIN to Existing Parentage",
+          "keywords": [
+              "amazon parentage",
+              "flat file upload",
+              "variation theme",
+              "seller central",
+              "fba mfn"
+          ]
+      },
+      {
+          "id": "catalog-sop-creating-a-brand-performance-report",
+          "title": "Catalog SOP: Creating a Brand Performance Report",
+          "keywords": [
+              "Brand Performance Report",
+              "Seller Central",
+              "Business Reports",
+              "ASIN metrics",
+              "Selling Partner API"
+          ]
+      },
+      {
+          "id": "catalog-sop-download-a-new-order-report",
+          "title": "Catalog SOP: Download a New Order Report",
+          "keywords": [
+              "Amazon Seller Central",
+              "New Orders report",
+              "Order Reports",
+              "Order fulfillment",
+              "CSV download"
+          ]
+      },
+      {
+          "id": "brand-registry-sop-how-to-use-the-repeat-purchase-behavior-report-in-brand-analytics",
+          "title": "Brand Registry SOP: How to Use the Repeat Purchase Behavior Report in Brand Analytics",
+          "keywords": [
+              "Brand Analytics",
+              "Repeat Purchase Behavior",
+              "Amazon Brand Registry",
+              "Repeat Customer Share",
+              "ASIN View"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-download-an-all-listings-report",
+          "title": "Catalog SOP: How to download an All Listings Report",
+          "keywords": [
+              "All Listings Report",
+              "Seller Central",
+              "Inventory Reports",
+              "catalog audit",
+              "ASIN/SKU"
+          ]
+      },
+      {
+          "id": "catalog-sop-editing-a-percentage-off-promotion",
+          "title": "Catalog SOP: Editing a Percentage Off Promotion",
+          "keywords": [
+              "Amazon Seller Central",
+              "Percentage Off Promotion",
+              "Manage Promotions",
+              "Checkout Text",
+              "Claim Codes"
+          ]
+      },
+      {
+          "id": "logistics-sop-how-to-switch-from-amazon-barcodes-to-manufacturer-barcodes-for-virtual-tracking",
+          "title": "Logistics SOP: How to Switch from Amazon Barcodes to Manufacturer Barcodes for Virtual Tracking",
+          "keywords": [
+              "Amazon FBA",
+              "manufacturer barcode",
+              "virtual tracking",
+              "barcode conversion",
+              "Send to Amazon"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-generate-an-amazon-fulfilled-shipments--tax-remittance-report",
+          "title": "Catalog SOP: How to Generate an Amazon Fulfilled Shipments \u2013 Tax Remittance Report",
+          "keywords": [
+              "Amazon Seller Central",
+              "Tax Remittance Report",
+              "Fulfillment Reports",
+              "Amazon Fulfilled Shipments",
+              "Sales Tax Reporting"
+          ]
+      },
+      {
+          "id": "catalog-sop-mental-health-disorder-and-sleep-disorder-claims",
+          "title": "Catalog SOP: Mental Health Disorder and Sleep Disorder Claims",
+          "keywords": [
+              "Amazon restricted products",
+              "dietary supplement claims",
+              "mental health claims",
+              "CLR batch ID",
+              "catalog listing appeal"
+          ]
+      },
+      {
+          "id": "catalog-sop-managing-your-fee-discounts",
+          "title": "Catalog SOP: Managing Your Fee Discounts",
+          "keywords": [
+              "Fee Discounts",
+              "Referral fee reduction",
+              "Seller Central",
+              "Pricing Dashboard",
+              "Automatic Pricing"
+          ]
+      },
+      {
+          "id": "merchandising-sop-how-to-request-gtin-exemption",
+          "title": "Merchandising SOP: How to Request GTIN Exemption",
+          "keywords": [
+              "GTIN exemption",
+              "Amazon Seller Central",
+              "Product listing",
+              "UPC exemption",
+              "Error 5665"
+          ]
+      },
+      {
+          "id": "catalog-sop-seller-fulfilled-prime-deactivation",
+          "title": "Catalog SOP: Seller Fulfilled Prime Deactivation",
+          "keywords": [
+              "Seller Fulfilled Prime",
+              "SFP deactivation",
+              "Buy Shipping",
+              "POA template",
+              "Amazon seller"
+          ]
+      },
+      {
+          "id": "supplemental-article-understanding-order-handling-capacity-on-amazon-seller-central",
+          "title": "Supplemental Article: Understanding Order Handling Capacity on Amazon Seller Central",
+          "keywords": [
+              "Order Handling Capacity",
+              "Amazon Seller Central",
+              "handling time",
+              "Seller Fulfilled Prime",
+              "Vacation Mode"
+          ]
+      },
+      {
+          "id": "catalog-sop-viewing-lightning-deal-costs-and-performance",
+          "title": "Catalog SOP: Viewing Lightning Deal Costs and Performance",
+          "keywords": [
+              "Lightning Deals",
+              "Deal Fee",
+              "Seller Central",
+              "Payments report",
+              "Deal performance"
+          ]
+      },
+      {
+          "id": "catalog-sop-creating-a-promo-code",
+          "title": "Catalog SOP: Creating a Promo Code",
+          "keywords": [
+              "Amazon promotions",
+              "Seller Central",
+              "Social media promo",
+              "Promo code combinability",
+              "Asana approval"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-change-legal-entity",
+          "title": "Catalog SOP: How to Change Legal Entity",
+          "keywords": [
+              "Amazon Seller Central",
+              "Legal entity",
+              "EIN update",
+              "Tax interview",
+              "Seller Support"
+          ]
+      },
+      {
+          "id": "catalog-sop-copyright-infringement",
+          "title": "Catalog SOP: Copyright Infringement",
+          "keywords": [
+              "Copyright infringement",
+              "ASIN reinstatement",
+              "Letter of Authorization",
+              "Amazon FBA",
+              "Listing removal"
+          ]
+      },
+      {
+          "id": "brand-registry-amazon-brand-registry---project-zero",
+          "title": "Brand Registry: Amazon Brand Registry - Project Zero",
+          "keywords": [
+              "Amazon Brand Registry",
+              "Project Zero",
+              "counterfeit removal",
+              "ASIN removal",
+              "brand protection"
+          ]
+      },
+      {
+          "id": "catalog-sop-error-20002",
+          "title": "Catalog SOP: Error 20002",
+          "keywords": [
+              "Amazon Seller Central",
+              "Error 20002",
+              "variation theme",
+              "flat file upload",
+              "parent SKU"
+          ]
+      },
+      {
+          "id": "brand-registry-sop-add-asins-to-brand-store-brand-story-and-a-content",
+          "title": "Brand Registry SOP: Add ASINs to Brand Store, Brand Story, and A+ Content",
+          "keywords": [
+              "Brand Registry",
+              "A+ Content",
+              "Brand Store",
+              "ASIN linking",
+              "Amazon Seller Central"
+          ]
+      },
+      {
+          "id": "catalog-sop-a-b-test-main-image",
+          "title": "Catalog SOP: A/B Test (Main Image)",
+          "keywords": [
+              "Amazon A/B testing",
+              "Main image test",
+              "Seller Central experiments",
+              "Product listing optimization",
+              "Catalog SOP"
+          ]
+      },
+      {
+          "id": "merchandising-sop-download-a-category-specific-template",
+          "title": "Merchandising SOP: Download a Category Specific Template",
+          "keywords": [
+              "Amazon seller",
+              "category template",
+              "Valid Values",
+              "Product Classifier",
+              "bulk upload"
+          ]
+      },
+      {
+          "id": "catalog-sop-error-8058",
+          "title": "Catalog SOP: Error 8058",
+          "keywords": [
+              "Error 8058",
+              "inventory file template",
+              "Feed Processing Summary",
+              "missing attributes",
+              "flat file upload"
+          ]
+      },
+      {
+          "id": "catalog-sop-creating-an-end-of-day-form",
+          "title": "Catalog SOP: Creating an End of Day Form",
+          "keywords": [
+              "End of Day Form",
+              "Seller Central",
+              "Order Reports",
+              "USPS shipping",
+              "Transaction reconciliation"
+          ]
+      },
+      {
+          "id": "catalog-sop-retract-a-report-of-infringement",
+          "title": "Catalog SOP: Retract a Report of Infringement",
+          "keywords": [
+              "Amazon Brand Registry",
+              "Report Infringement",
+              "Retract complaint",
+              "ASIN reinstatement",
+              "Catalog management"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-fix-pesticide-yanks-and-gating",
+          "title": "Catalog SOP: How to Fix Pesticide Yanks and Gating",
+          "keywords": [
+              "Amazon pesticide gating",
+              "Seller Central attributes",
+              "EPA registration",
+              "NDC verification",
+              "Catalog Listing Report"
+          ]
+      },
+      {
+          "id": "catalog-sop-scheduling-a-new-orders-report",
+          "title": "Catalog SOP: Scheduling a New Orders Report",
+          "keywords": [
+              "Amazon Seller",
+              "Seller Central",
+              "New Orders report",
+              "Scheduled Reports",
+              "sales channel"
+          ]
+      },
+      {
+          "id": "catalog-sop-creating-a-detail-page-sales-and-traffic-by-parent-asin-report",
+          "title": "Catalog SOP: Creating a Detail Page Sales and Traffic by Parent ASIN Report",
+          "keywords": [
+              "Amazon Seller Central",
+              "Business Reports",
+              "Detail Page Sales",
+              "Parent ASIN report",
+              "CSV export"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-remove-a-listing-from-a-parentage",
+          "title": "Catalog SOP: How to Remove a Listing from a Parentage",
+          "keywords": [
+              "child ASIN",
+              "break parentage",
+              "delete and relist",
+              "flat file",
+              "Seller Support"
+          ]
+      },
+      {
+          "id": "catalog-sop-cancelling-a-buy-one-get-one-promotion",
+          "title": "Catalog SOP: Cancelling a Buy One Get One Promotion",
+          "keywords": [
+              "BOGO cancellation",
+              "Seller Central",
+              "Manage Promotions",
+              "promotion approval",
+              "promotion reporting"
+          ]
+      },
+      {
+          "id": "pm-sop-amazon-seller-central-user-permissions-new-interface",
+          "title": "PM SOP: Amazon Seller Central User Permissions (New Interface)",
+          "keywords": [
+              "Amazon Seller Central",
+              "user permissions",
+              "multi-site access",
+              "2FA",
+              "least privilege"
+          ]
+      },
+      {
+          "id": "catalog-sop-creating-a-buy-one-get-one-promotion",
+          "title": "Catalog SOP: Creating a Buy One Get One Promotion",
+          "keywords": [
+              "BOGO promotion",
+              "Amazon Seller Central",
+              "Claim codes",
+              "Promotion scheduling",
+              "Catalog SOP"
+          ]
+      },
+      {
+          "id": "catalog-sop-download-an-exportable-inventory-us-report",
+          "title": "Catalog SOP: Download an Exportable Inventory (US) Report",
+          "keywords": [
+              "Exportable Inventory (US)",
+              "Fulfillment Reports",
+              "Amazon Seller Central",
+              "Inventory export",
+              "Catalog management"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-break-a-parentage",
+          "title": "Catalog SOP: How to Break a Parentage",
+          "keywords": [
+              "break parentage",
+              "parent-child listings",
+              "variation management",
+              "flat-file deletion",
+              "Amazon Seller Central"
+          ]
+      },
+      {
+          "id": "brand-registry-sop-how-to-fix-brand-store-rejection",
+          "title": "Brand Registry SOP: How to Fix Brand Store Rejection",
+          "keywords": [
+              "Brand Store rejection",
+              "Amazon Brand Registry",
+              "Stores Content Guidelines",
+              "Seller Central appeals",
+              "Meta description compliance"
+          ]
+      },
+      {
+          "id": "troubleshooting-sop-price-not-updating-in-automate-pricing",
+          "title": "Troubleshooting SOP: Price Not Updating in Automate Pricing",
+          "keywords": [
+              "Automate Pricing",
+              "Repricing paused",
+              "Manual price change",
+              "Sale price",
+              "Rule assignment"
+          ]
+      },
+      {
+          "id": "catalog-sop-chargeback--a-z-claims",
+          "title": "Catalog SOP: Chargeback/ A-Z Claims",
+          "keywords": [
+              "A-to-Z Guarantee",
+              "Chargeback disputes",
+              "Seller Central",
+              "A-to-Z appeals",
+              "Chargeback templates"
+          ]
+      },
+      {
+          "id": "catalog-sop-design-rights-infringement",
+          "title": "Catalog SOP: Design Rights Infringement",
+          "keywords": [
+              "Design rights",
+              "Amazon UK",
+              "Seller Central POA",
+              "Registered design",
+              "Design infringement"
+          ]
+      },
+      {
+          "id": "catalog-sop-error-8541",
+          "title": "Catalog SOP: Error 8541",
+          "keywords": [
+              "Error 8541",
+              "Amazon catalog",
+              "Processing Report",
+              "Flat file update",
+              "Product Type mismatch"
+          ]
+      },
+      {
+          "id": "catalog-sop-download-a-dangerous-goods-status-report",
+          "title": "Catalog SOP: Download a Dangerous Goods Status Report",
+          "keywords": [
+              "Dangerous Goods Report",
+              "Amazon FBA",
+              "Seller Central",
+              "Hazmat Compliance",
+              "DG Status Download"
+          ]
+      },
+      {
+          "id": "catalog-sop-download-an-outlet-deals-report",
+          "title": "Catalog SOP: Download an Outlet Deals Report",
+          "keywords": [
+              "Outlet Deals",
+              "Seller Central",
+              "Fulfillment reports",
+              "Discounted inventory",
+              "CSV download"
+          ]
+      },
+      {
+          "id": "supplemental-article-maximizing-sales-insights-with-the-amazon-sales-dashboard",
+          "title": "Supplemental Article: Maximizing Sales Insights with the Amazon Sales Dashboard",
+          "keywords": [
+              "Amazon Sales Dashboard",
+              "Business Reports",
+              "FBA/FBM",
+              "Sales Snapshot",
+              "Featured Offer Percentage"
+          ]
+      },
+      {
+          "id": "logistics-sop-seller-fulfilled-prime-trial-period",
+          "title": "Logistics SOP: Seller Fulfilled Prime Trial Period",
+          "keywords": [
+              "Seller Fulfilled Prime",
+              "SFP trial",
+              "Buy Shipping Services",
+              "On-Time Shipment Rate",
+              "Prime Shipping template"
+          ]
+      },
+      {
+          "id": "catalog-sop-seller-fulfilled-prime-enabled",
+          "title": "Catalog SOP: Seller Fulfilled Prime Enabled",
+          "keywords": [
+              "Seller Fulfilled Prime",
+              "Prime badge",
+              "On-Time Shipment Rate",
+              "Plan of Action",
+              "Account Health"
+          ]
+      },
+      {
+          "id": "merchandising-sop-how-to-use-the-match-low-price-feature-in-amazon",
+          "title": "Merchandising SOP: How to Use the Match Low Price Feature in Amazon",
+          "keywords": [
+              "Match Low Price",
+              "Amazon Seller Central",
+              "Manage Pricing",
+              "pricing automation",
+              "inventory management"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-identify--solve-active-listings-with-no-sales-rank",
+          "title": "Catalog SOP: How To Identify & Solve Active Listings With No Sales Rank",
+          "keywords": [
+              "Sales Rank",
+              "BSR missing",
+              "Flat file upload",
+              "Category assignment",
+              "Adult flag removal"
+          ]
+      },
+      {
+          "id": "catalog-sop-download-a-subscribe-and-save-forecasting-report",
+          "title": "Catalog SOP: Download a Subscribe and Save Forecasting Report",
+          "keywords": [
+              "Seller Central",
+              "Subscribe & Save",
+              "Forecasting report",
+              "Inventory forecasting",
+              "Download CSV"
+          ]
+      },
+      {
+          "id": "catalog-sop-feed-processing-error-code---8115",
+          "title": "Catalog SOP: Feed Processing Error Code - 8115",
+          "keywords": [
+              "Error 8115",
+              "ConditionType",
+              "Inventory feed",
+              "Flat file upload",
+              "Seller Central"
+          ]
+      },
+      {
+          "id": "catalog-sop-downloading-a-transaction-view-report",
+          "title": "Catalog SOP: Downloading a Transaction View Report",
+          "keywords": [
+              "Seller Central",
+              "Transaction View",
+              "Payments report",
+              "Disbursements report",
+              "A-to-z refund"
+          ]
+      },
+      {
+          "id": "catalog-sop-disease-medical--pathogens-claims-of-canada-ca",
+          "title": "Catalog SOP: Disease, Medical & Pathogens Claims of Canada (CA)",
+          "keywords": [
+              "Amazon Canada",
+              "Amazon Seller Central",
+              "NPN",
+              "LNHPD compliance",
+              "Disease claims"
+          ]
+      },
+      {
+          "id": "catalog-sop-managing-your-price-competitiveness",
+          "title": "Catalog SOP: Managing Your Price Competitiveness",
+          "keywords": [
+              "Price competitiveness",
+              "Buy Box",
+              "Automated Pricing",
+              "Pricing Opportunities",
+              "Featured Offer"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-change-a-products-category-or-browse-path-in-seller-central",
+          "title": "Catalog SOP: How to Change a Product\u2019s Category or Browse Path in Seller Central",
+          "keywords": [
+              "Seller Central",
+              "browse node",
+              "browse path",
+              "Item Type Keyword",
+              "category change"
+          ]
+      },
+      {
+          "id": "catalog-sop-managing-your-sales-conversion",
+          "title": "Catalog SOP: Managing Your Sales Conversion",
+          "keywords": [
+              "Sales conversion",
+              "Pricing Health",
+              "Automate Pricing",
+              "Unit session percentage",
+              "Amazon FBA"
+          ]
+      },
+      {
+          "id": "logistics-sop-how-to-set-order-handling-capacity-in-amazon-seller-central",
+          "title": "Logistics SOP: How to Set Order Handling Capacity in Amazon Seller Central",
+          "keywords": [
+              "Order Handling Capacity",
+              "Amazon Seller Central",
+              "Shipping Settings",
+              "Handling Time",
+              "Fulfillment Capacity"
+          ]
+      },
+      {
+          "id": "catalog-sop-download-category-listings-report",
+          "title": "Catalog SOP: Download Category Listings Report",
+          "keywords": [
+              "Amazon Seller Central",
+              "Category Listings Report",
+              "Inventory backup",
+              "Listing restoration",
+              "Hijacker detection"
+          ]
+      },
+      {
+          "id": "merchandising-sop-switching-fulfillment-methods-between-fba-and-fbm",
+          "title": "Merchandising SOP: Switching Fulfillment Methods between FBA and FBM",
+          "keywords": [
+              "FBA",
+              "FBM",
+              "Fulfillment conversion",
+              "Child ASIN",
+              "Shipment plan"
+          ]
+      },
+      {
+          "id": "catalog-sop-enabling-seller-fulfilled-prime-on-your-account",
+          "title": "Catalog SOP: Enabling Seller Fulfilled Prime on Your account",
+          "keywords": [
+              "Seller Fulfilled Prime",
+              "SFP trial",
+              "Prime shipping template",
+              "Prime trial orders",
+              "Seller Central"
+          ]
+      },
+      {
+          "id": "catalog-sop-duplicating-an-existing-percentage-off-promotion",
+          "title": "Catalog SOP: Duplicating an Existing Percentage Off Promotion",
+          "keywords": [
+              "Amazon Seller Central",
+              "Percentage Off Promotion",
+              "Clone Promotion",
+              "Manage Promotions",
+              "Tracking ID"
+          ]
+      },
+      {
+          "id": "catalog-sop-asin-is-not-eligible-for-a-content",
+          "title": "Catalog SOP: ASIN is not Eligible for A+ Content",
+          "keywords": [
+              "A+ Content",
+              "ASIN eligibility",
+              "Brand Registry",
+              "Category Listing Report",
+              "CLR full update"
+          ]
+      },
+      {
+          "id": "catalog-sop-seller-fulfilled-offers-mfn-suspension",
+          "title": "Catalog SOP: Seller-Fulfilled Offers (MFN) Suspension",
+          "keywords": [
+              "MFN suspension",
+              "Seller-Fulfilled Offers",
+              "Valid Tracking Rate",
+              "Account Health Dashboard",
+              "Plan of Action"
+          ]
+      },
+      {
+          "id": "catalog-sop-advertising-a-coupon",
+          "title": "Catalog SOP: Advertising a Coupon",
+          "keywords": [
+              "Amazon Coupons",
+              "Sponsored Products",
+              "Seller Central",
+              "coupon advertising",
+              "ACoS RoAS"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-reconcile-fba-shipments---missing-and-overage-units",
+          "title": "Catalog SOP: How to Reconcile FBA Shipments - Missing and Overage Units",
+          "keywords": [
+              "FBA shipment reconciliation",
+              "Seller Central",
+              "Missing units",
+              "Overage units",
+              "Proof of delivery"
+          ]
+      },
+      {
+          "id": "catalog-sop-download-a-subscribe-and-save-performance-report",
+          "title": "Catalog SOP: Download a Subscribe and Save Performance Report",
+          "keywords": [
+              "Subscribe & Save",
+              "Seller Central",
+              "Fulfillment reports",
+              "Subscription analytics",
+              "CSV download"
+          ]
+      },
+      {
+          "id": "catalog-sop-full-update-flat-file",
+          "title": "Catalog SOP: Full Update Flat File",
+          "keywords": [
+              "Full Update",
+              "Category Listings Report",
+              "ASIN",
+              "Price Per Unit",
+              "Seller Central upload"
+          ]
+      },
+      {
+          "id": "catalog-sop-downloading-a-statement-view-report",
+          "title": "Catalog SOP: Downloading a Statement View Report",
+          "keywords": [
+              "Statement View",
+              "Seller Central Payments",
+              "Settlement Period",
+              "Transaction Breakdown",
+              "FBA fees"
+          ]
+      },
+      {
+          "id": "vendor-central-sop-listing-update-in-vendor-central-via-flat-file",
+          "title": "Vendor Central SOP: Listing Update in Vendor Central via Flat File",
+          "keywords": [
+              "Vendor Central",
+              "flat file upload",
+              "bulk listing update",
+              "ASIN management",
+              "spreadsheet upload"
+          ]
+      },
+      {
+          "id": "catalog-sop-download-a-reserved-inventory-report",
+          "title": "Catalog SOP: Download a Reserved Inventory Report",
+          "keywords": [
+              "Reserved Inventory Report",
+              "FBA Reserved Inventory",
+              "Seller Central reports",
+              "On-hand inventory",
+              "FC transfer units"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-fix-hidden-price",
+          "title": "Catalog SOP: How to Fix Hidden Price",
+          "keywords": [
+              "Hidden price",
+              "Minimum Advertised Price",
+              "map_price",
+              "Catalog Listings Report",
+              "fulfillment-center-id"
+          ]
+      },
+      {
+          "id": "catalog-sop-fba-removal-order",
+          "title": "Catalog SOP: FBA Removal Order",
+          "keywords": [
+              "Amazon FBA",
+              "FBA removal order",
+              "Automatic removals",
+              "FBA reimbursement claims",
+              "Removal order fees"
+          ]
+      },
+      {
+          "id": "catalog-sop-reading-your-pricing-dashboard",
+          "title": "Catalog SOP: Reading Your Pricing Dashboard",
+          "keywords": [
+              "Pricing Dashboard",
+              "Seller Central",
+              "Automate Pricing",
+              "Buy Box",
+              "Negotiated Pricing"
+          ]
+      },
+      {
+          "id": "catalog-sop-business-pricing-and-tiered-discounts",
+          "title": "Catalog SOP: Business Pricing and Tiered Discounts",
+          "keywords": [
+              "business pricing",
+              "tiered discounts",
+              "Seller Central",
+              "flat-file upload",
+              "FBA/FBM"
+          ]
+      },
+      {
+          "id": "catalog-sop-error-99003",
+          "title": "Catalog SOP: Error 99003",
+          "keywords": [
+              "Error 99003",
+              "Parentage",
+              "Variation theme",
+              "Flat file upload",
+              "Feed processing"
+          ]
+      },
+      {
+          "id": "catalog-sop-downloading-an-all-statements-report",
+          "title": "Catalog SOP: Downloading an All Statements Report",
+          "keywords": [
+              "All Statements",
+              "Seller Central Payments",
+              "Settlement Report",
+              "Flat File V2",
+              "FBA Settlement"
+          ]
+      },
+      {
+          "id": "catalog-sop-canceling-a-social-media-promo-code",
+          "title": "Catalog SOP: Canceling a Social Media Promo Code",
+          "keywords": [
+              "Amazon Seller Central",
+              "Social Media Promo",
+              "Promo Code Cancellation",
+              "Tracking ID",
+              "Amazon Promotions"
+          ]
+      },
+      {
+          "id": "catalog-sop-viewing-percentage-off-promotion-costs-and-performance",
+          "title": "Catalog SOP: Viewing Percentage Off Promotion Costs and Performance",
+          "keywords": [
+              "Percentage Off Promotions",
+              "Referral fees",
+              "Seller Central Payments",
+              "Transaction View",
+              "Promotion Tracking ID"
+          ]
+      },
+      {
+          "id": "catalog-sop-creating-a-detail-page-sales-and-traffic-report-by-asin",
+          "title": "Catalog SOP: Creating a Detail Page Sales and Traffic Report by ASIN",
+          "keywords": [
+              "Detail Page Sales",
+              "ASIN report",
+              "Seller Central",
+              "ASIN-level metrics",
+              "CSV download"
+          ]
+      },
+      {
+          "id": "catalog-sop-merging-variations",
+          "title": "Catalog SOP: Merging Variations",
+          "keywords": [
+              "Seller Central",
+              "merge variations",
+              "Child ASIN",
+              "Parent ASIN",
+              "Category Listings Report"
+          ]
+      },
+      {
+          "id": "quick-reference-guide-amazon-demographics-dashboard",
+          "title": "Quick Reference Guide: Amazon Demographics Dashboard",
+          "keywords": [
+              "Amazon Brand Analytics",
+              "Demographics Dashboard",
+              "Seller Central",
+              "Unique Customers",
+              "Privacy Threshold"
+          ]
+      },
+      {
+          "id": "catalog-sop-360-images",
+          "title": "Catalog SOP: 360 Images",
+          "keywords": [
+              "Amazon Vendor",
+              "360 product spin",
+              "Bulk image upload",
+              "File naming convention",
+              "85% frame fill"
+          ]
+      },
+      {
+          "id": "troubleshooting-sop-how-to-fix-federal-communications-commission-fcc-yanks",
+          "title": "Troubleshooting SOP: How to Fix Federal Communications Commission (FCC) Yanks",
+          "keywords": [
+              "Amazon seller",
+              "FCC compliance",
+              "RF device",
+              "ASIN reinstatement",
+              "Seller Central compliance"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-enroll-in-remote-fulfillment-with-fba",
+          "title": "Catalog SOP: How to enroll in Remote Fulfillment with FBA",
+          "keywords": [
+              "Remote Fulfillment",
+              "NARF",
+              "FBA Export Settings",
+              "ASIN Status Report",
+              "Exportable Inventory"
+          ]
+      },
+      {
+          "id": "catalog-sop-sc-bulk-image-upload",
+          "title": "Catalog SOP: SC Bulk Image Upload",
+          "keywords": [
+              "Seller Central",
+              "bulk image upload",
+              "inventory file",
+              "ASIN image naming",
+              "partial update"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-download-an-inventory-report",
+          "title": "Catalog SOP: How to download an Inventory Report",
+          "keywords": [
+              "Amazon Seller Central",
+              "Inventory Report",
+              "Inventory CSV",
+              "Inventory management",
+              "Stock reconciliation"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-create-deals-lightning-and-best",
+          "title": "Catalog SOP: How to Create Deals (Lightning and Best)",
+          "keywords": [
+              "Amazon Deals",
+              "Lightning Deal",
+              "Best Deal",
+              "Seller Central",
+              "Deal eligibility"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-print-amazon-barcodes",
+          "title": "Catalog SOP: How to Print Amazon Barcodes",
+          "keywords": [
+              "Amazon barcodes",
+              "FNSKU",
+              "Print item labels",
+              "FBA barcode requirements",
+              "Transparency codes"
+          ]
+      },
+      {
+          "id": "catalog-sop-editing-a-lightning-deal-in-seller-central",
+          "title": "Catalog SOP: Editing a Lightning Deal in Seller Central",
+          "keywords": [
+              "Lightning Deals",
+              "Seller Central",
+              "Deal edits",
+              "ASIN SKU",
+              "Approval tracking"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-fix-trademark-tm-infringement-yank",
+          "title": "Catalog SOP: How to Fix Trademark (TM) Infringement Yank",
+          "keywords": [
+              "Amazon trademark appeal",
+              "TM infringement",
+              "Listing reinstatement",
+              "Brand authorization",
+              "USPTO TESS"
+          ]
+      },
+      {
+          "id": "catalog-sop-a-b-test-a-content",
+          "title": "Catalog SOP: A/B Test (A+ Content)",
+          "keywords": [
+              "A+ Content",
+              "A/B testing",
+              "Seller Central",
+              "Experiments Dashboard",
+              "ASIN management"
+          ]
+      },
+      {
+          "id": "catalog-sop-fba-shipment-reconciliation",
+          "title": "Catalog SOP: FBA Shipment Reconciliation",
+          "keywords": [
+              "FBA shipment",
+              "shipment reconciliation",
+              "Amazon Seller Central",
+              "Bill of Lading",
+              "inventory discrepancy"
+          ]
+      },
+      {
+          "id": "catalog-sop-download-a-manage-fba-inventory-report",
+          "title": "Catalog SOP: Download a Manage FBA Inventory Report",
+          "keywords": [
+              "Manage FBA Inventory",
+              "FBA inventory report",
+              "Seller Central reports",
+              "CSV download",
+              "Inventory reconciliation"
+          ]
+      },
+      {
+          "id": "catalog-sop-update-product-listings-manually",
+          "title": "Catalog SOP: Update Product Listings Manually",
+          "keywords": [
+              "Seller Central",
+              "Manual listing updates",
+              "Category Listings Report",
+              "ASIN management",
+              "Backend fields"
+          ]
+      },
+      {
+          "id": "catalog-sop-cancelling-a-percentage-off-promotion",
+          "title": "Catalog SOP: Cancelling a Percentage Off Promotion",
+          "keywords": [
+              "Percentage Off Promotion",
+              "Seller Central",
+              "Manage Promotions",
+              "Cancel Promotion",
+              "Coupon redemption"
+          ]
+      },
+      {
+          "id": "catalog-sop-download-a-manage-fba-inventory-archive-report",
+          "title": "Catalog SOP: Download a Manage FBA Inventory Archive Report",
+          "keywords": [
+              "FBA inventory archive",
+              "Seller Central reports",
+              "Manage FBA Inventory",
+              "CSV download",
+              "Inventory report troubleshooting"
+          ]
+      },
+      {
+          "id": "catalog-sop-creating-a-detail-page-sales-and-traffic-report-by-date",
+          "title": "Catalog SOP: Creating a Detail Page Sales and Traffic Report by Date",
+          "keywords": [
+              "Detail Page Sales",
+              "Seller Central",
+              "Business Reports",
+              "Unit Session Percentage",
+              "Download CSV"
+          ]
+      },
+      {
+          "id": "catalog-sop-editing-your-vine-enrolled-products-on-seller-central",
+          "title": "Catalog SOP: Editing your Vine Enrolled Products on Seller Central",
+          "keywords": [
+              "Amazon Vine",
+              "Seller Central",
+              "Vine enrollment",
+              "ASIN editing",
+              "enrollment units"
+          ]
+      },
+      {
+          "id": "catalog-sop-providing-dmca-counter-notice-for-copyright-infringements",
+          "title": "Catalog SOP: Providing DMCA Counter Notice for Copyright Infringements",
+          "keywords": [
+              "DMCA counter-notice",
+              "Amazon Seller Central",
+              "copyright takedown",
+              "ASIN reinstatement",
+              "catalog compliance"
+          ]
+      },
+      {
+          "id": "catalog-sop-setting-a-sale-price-in-seller-central",
+          "title": "Catalog SOP: Setting a Sale Price in Seller Central",
+          "keywords": [
+              "Seller Central",
+              "Sale Price",
+              "Flat File Upload",
+              "Prime Exclusive Discount",
+              "Listing Loader"
+          ]
+      },
+      {
+          "id": "catalog-sop-download-an-inbound-performance-report",
+          "title": "Catalog SOP: Download an Inbound Performance Report",
+          "keywords": [
+              "Amazon FBA",
+              "Inbound Performance",
+              "Fulfillment reports",
+              "CSV download",
+              "Inventory reporting"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-transfer-subscribe-and-save-subscriptions",
+          "title": "Catalog SOP: How to Transfer Subscribe and Save Subscriptions",
+          "keywords": [
+              "Subscribe and Save",
+              "SKU transfer",
+              "Seller Central",
+              "merchant token",
+              "ASIN transfer"
+          ]
+      },
+      {
+          "id": "brand-registry-sop-fix-brand-store-byline",
+          "title": "Brand Registry SOP: Fix Brand/Store Byline",
+          "keywords": [
+              "Store Byline",
+              "Amazon Brand Registry",
+              "Seller Central",
+              "Item Type Keyword",
+              "Advertising Support"
+          ]
+      },
+      {
+          "id": "catalog-sop-duplicate-bullet-points-audit-and-troubleshooting",
+          "title": "Catalog SOP: Duplicate Bullet Points Audit and Troubleshooting",
+          "keywords": [
+              "duplicate bullets",
+              "Category Listing Report",
+              "flat file",
+              "Seller Central",
+              "listing audit"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-generate-an-inventory-storage-overage-fees-report",
+          "title": "Catalog SOP: How to Generate an Inventory Storage Overage Fees Report",
+          "keywords": [
+              "Inventory Storage Report",
+              "Overage Fees Report",
+              "FBA Storage Fees",
+              "Amazon FBA",
+              "Seller Central"
+          ]
+      },
+      {
+          "id": "supplemental-article-how-to-use-the-fulfillment-insight-dashboard-to-improve-performance",
+          "title": "Supplemental Article: How to Use the Fulfillment Insight Dashboard to Improve Performance",
+          "keywords": [
+              "Fulfillment Insight Dashboard",
+              "seller-fulfilled non-Prime",
+              "handling time gap",
+              "promise extensions",
+              "delivery performance"
+          ]
+      },
+      {
+          "id": "troubleshooting-sop-merging-reviews",
+          "title": "Troubleshooting SOP: Merging Reviews",
+          "keywords": [
+              "review merge",
+              "Parent-Child ASIN",
+              "Item Type Keyword",
+              "Product Type",
+              "GL code"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-download-an-inactive-listings-report",
+          "title": "Catalog SOP: How to download an Inactive Listings Report",
+          "keywords": [
+              "inactive listings report",
+              "Seller Central",
+              "inactive SKUs",
+              "listing suppression",
+              "inventory audit"
+          ]
+      },
+      {
+          "id": "catalog-sop-unenroll-from-the-remote-fulfillment-program-narf",
+          "title": "Catalog SOP: Unenroll from the Remote Fulfillment Program (NARF)",
+          "keywords": [
+              "Remote Fulfillment",
+              "NARF",
+              "ASIN exclusion",
+              "NARF report",
+              "Build International Listings"
+          ]
+      },
+      {
+          "id": "catalog-sop-vc-image-video-upload",
+          "title": "Catalog SOP: VC Image/Video Upload",
+          "keywords": [
+              "Vendor Central",
+              "ASIN image upload",
+              "bulk image upload",
+              "video upload",
+              "image variant codes"
+          ]
+      },
+      {
+          "id": "supplemental-article-best-practices-for-stock-recommendations-during-amazon-events",
+          "title": "Supplemental Article: Best Practices for Stock Recommendations During Amazon Events",
+          "keywords": [
+              "Prime Day prep",
+              "inventory forecasting",
+              "FBA fulfillment",
+              "IPI score",
+              "cycle counting"
+          ]
+      },
+      {
+          "id": "catalog-sop-high-odr-account-suspension",
+          "title": "Catalog SOP: High ODR Account Suspension",
+          "keywords": [
+              "Order Defect Rate",
+              "Account Suspension",
+              "Plan of Action",
+              "Feedback Manager",
+              "A-to-z claims"
+          ]
+      },
+      {
+          "id": "catalog-sop-negative-feedback-removal",
+          "title": "Catalog SOP: Negative Feedback Removal",
+          "keywords": [
+              "Negative feedback removal",
+              "Seller Central",
+              "Feedback Manager",
+              "Feedback strike-through",
+              "Order Defect Rate"
+          ]
+      },
+      {
+          "id": "logistics-sop-updating-tracking-for-your-merchant-fulfilled-orders-via-seller-central",
+          "title": "Logistics SOP: Updating Tracking for your Merchant Fulfilled Orders via Seller Central",
+          "keywords": [
+              "Merchant Fulfilled Orders",
+              "Seller Central",
+              "Update Tracking",
+              "Edit Shipment",
+              "Manage Orders"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-manually-ship-and-confirm-merchant-fulfilled-orders-fbm-on-the-amazon-marketplace",
+          "title": "Catalog SOP: How to Manually Ship and Confirm Merchant Fulfilled Orders (FBM) On the Amazon Marketplace",
+          "keywords": [
+              "FBM",
+              "Amazon Seller Central",
+              "Buy Shipping",
+              "Confirm Shipment",
+              "Ship By Date"
+          ]
+      },
+      {
+          "id": "catalog-sop-creating-an-archived-orders-report",
+          "title": "Catalog SOP: Creating an Archived Orders Report",
+          "keywords": [
+              "Archived Orders Report",
+              "Seller Central",
+              "Order Reports",
+              "CSV download",
+              "SP-API"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-generate-a-monthly-storage-fees-report",
+          "title": "Catalog SOP: How to Generate a Monthly Storage Fees Report",
+          "keywords": [
+              "Amazon FBA",
+              "Seller Central",
+              "Monthly Storage Fees",
+              "CSV download",
+              "Inventory optimization"
+          ]
+      },
+      {
+          "id": "logistics-sop-how-to-download-an-fba-inventory-report",
+          "title": "Logistics SOP: How to Download an FBA Inventory Report",
+          "keywords": [
+              "FBA Inventory Report",
+              "Seller Central",
+              "Inventory Age",
+              "MSKU ASIN FNSKU",
+              "Inventory Replenishment"
+          ]
+      },
+      {
+          "id": "catalog-sop-creating-a-new-automated-pricing-rule",
+          "title": "Catalog SOP: Creating a New Automated Pricing Rule",
+          "keywords": [
+              "Automate Pricing",
+              "Amazon Seller Central",
+              "Pricing rule setup",
+              "Buy Box strategy",
+              "Dynamic pricing"
+          ]
+      },
+      {
+          "id": "catalog-sop-pesticide-claims-keywords-to-avoid",
+          "title": "Catalog SOP: Pesticide Claims-Keywords to Avoid",
+          "keywords": [
+              "pesticide claims",
+              "prohibited keywords",
+              "Amazon listings",
+              "Seller Central",
+              "listing compliance"
+          ]
+      },
+      {
+          "id": "pm-sop-remove-seller-central-access-user-permissions",
+          "title": "PM SOP: Remove Seller Central Access User Permissions",
+          "keywords": [
+              "Seller Central",
+              "User Permissions",
+              "User Management",
+              "access revocation",
+              "third-party access"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-merge-asins",
+          "title": "Catalog SOP: How to Merge ASINs",
+          "keywords": [
+              "ASIN merge",
+              "Seller Central",
+              "catalog management",
+              "duplicate listings",
+              "Category Listings Report"
+          ]
+      },
+      {
+          "id": "catalog-sop-download-a-removal-shipment-detail-report",
+          "title": "Catalog SOP: Download a Removal Shipment Detail Report",
+          "keywords": [
+              "Removal Shipment Detail",
+              "Seller Central",
+              "FBA removals",
+              "Removal report download",
+              "Disposition codes"
+          ]
+      },
+      {
+          "id": "catalog-sop-create-inbound-or-outbound-order-in-flowspace-3pl-shipment",
+          "title": "Catalog SOP: Create Inbound or Outbound Order in Flowspace (3PL Shipment)",
+          "keywords": [
+              "Flowspace orders",
+              "Inbound orders",
+              "Outbound orders",
+              "Amazon FBA",
+              "Seller Central"
+          ]
+      },
+      {
+          "id": "catalog-sop-fixing-price-alerts",
+          "title": "Catalog SOP: Fixing Price Alerts",
+          "keywords": [
+              "Seller Central",
+              "Price Alerts",
+              "Listing Deactivation",
+              "Min Max Pricing",
+              "ASIN reinstatement"
+          ]
+      },
+      {
+          "id": "brand-registry-sop-how-to-use-new-selection-opportunities-in-explore-brand-selection",
+          "title": "Brand Registry SOP: How to Use New Selection Opportunities in Explore Brand Selection",
+          "keywords": [
+              "Amazon Brand Registry",
+              "New Selection Opportunities",
+              "Explore Brand Selection",
+              "Bulk listing",
+              "Monthly Demand Signal"
+          ]
+      },
+      {
+          "id": "troubleshooting-sop-sds-upload-hazmat-issues",
+          "title": "Troubleshooting SOP: SDS Upload/HAZMAT Issues",
+          "keywords": [
+              "SDS upload",
+              "hazmat compliance",
+              "Amazon FBA",
+              "dangerous goods",
+              "battery classification"
+          ]
+      },
+      {
+          "id": "catalog-sop-fba-storage-capacity-limits",
+          "title": "Catalog SOP: FBA Storage Capacity Limits",
+          "keywords": [
+              "Amazon FBA",
+              "FBA storage limits",
+              "Capacity Manager",
+              "IPI",
+              "reservation fee"
+          ]
+      },
+      {
+          "id": "supplemental-article-the-benefits-of-multi-location-inventory-mli",
+          "title": "Supplemental Article: The Benefits of Multi-Location Inventory (MLI)",
+          "keywords": [
+              "Multi-Location Inventory",
+              "MLI",
+              "SP-API",
+              "Feeds API",
+              "Fulfilled by Merchant"
+          ]
+      },
+      {
+          "id": "catalog-sop-reconnect-excluded-offers-in-a-target-marketplace",
+          "title": "Catalog SOP: Reconnect Excluded Offers in a Target Marketplace",
+          "keywords": [
+              "Amazon Seller Central",
+              "Build International Listings",
+              "Reconnect offers",
+              "Product exclusions",
+              "Target marketplace"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-generate-a-removal-order-detail-report",
+          "title": "Catalog SOP: How to Generate a Removal Order Detail Report",
+          "keywords": [
+              "Removal Order Detail",
+              "Seller Central",
+              "Amazon FBA",
+              "FNSKU",
+              "Reports API"
+          ]
+      },
+      {
+          "id": "catalog-sop-a-b-test-product-description",
+          "title": "Catalog SOP: A/B Test (Product Description)",
+          "keywords": [
+              "A/B testing",
+              "Manage Experiments",
+              "Seller Central",
+              "Product description",
+              "Listing optimization"
+          ]
+      },
+      {
+          "id": "catalog-sop-invoice---proper-invoice-template-for-amazon",
+          "title": "Catalog SOP: INVOICE - Proper Invoice Template for Amazon",
+          "keywords": [
+              "Amazon invoice",
+              "invoice template",
+              "ASIN gating",
+              "seller invoice requirements",
+              "proof of purchase"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-change-fbm-shipping-cut-off-times",
+          "title": "Catalog SOP: How to Change FBM Shipping Cut-Off Times",
+          "keywords": [
+              "FBM cut-off times",
+              "Order Fulfillment Settings",
+              "Fulfillment by Merchant",
+              "Delivery Promise",
+              "Amazon Seller Central"
+          ]
+      },
+      {
+          "id": "catalog-sop-brand-registry-enrollment",
+          "title": "Catalog SOP: Brand Registry Enrollment",
+          "keywords": [
+              "Amazon Brand Registry",
+              "brand enrollment",
+              "trademark verification",
+              "product images",
+              "ASINs"
+          ]
+      },
+      {
+          "id": "catalog-sop-duplicating-an-existing-social-media-promo-code",
+          "title": "Catalog SOP: Duplicating an Existing Social Media Promo Code",
+          "keywords": [
+              "Seller Central",
+              "Amazon Promotions",
+              "Duplicate promotion",
+              "Tracking ID",
+              "Social media promo"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-generate-an-fba-customer-returns-report",
+          "title": "Catalog SOP: How to Generate an FBA Customer Returns Report",
+          "keywords": [
+              "FBA Customer Returns",
+              "Amazon Seller Central",
+              "Returns report",
+              "Scheduled reports",
+              "CSV download"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-generate-a-recommended-removal-report",
+          "title": "Catalog SOP: How to Generate a Recommended Removal Report",
+          "keywords": [
+              "Recommended Removal Report",
+              "Seller Central",
+              "Long-Term Storage Fees",
+              "Inventory Cleanup",
+              "FBA removals"
+          ]
+      },
+      {
+          "id": "brand-registry-sop-how-to-enroll-a-brand-and-products-in-the-amazon-transparency-program",
+          "title": "Brand Registry SOP: How to Enroll a Brand and Products in the Amazon Transparency Program",
+          "keywords": [
+              "Amazon Transparency",
+              "Brand Registry",
+              "Transparency codes",
+              "ASIN enrollment",
+              "Product authentication"
+          ]
+      },
+      {
+          "id": "catalog-sop-enrolling-a-product-in-the-vine-program-on-vendor-central",
+          "title": "Catalog SOP: Enrolling a Product in the Vine Program on Vendor Central",
+          "keywords": [
+              "Amazon Vine",
+              "Vendor Central",
+              "Vine enrollment",
+              "ASIN eligibility",
+              "Vine fees"
+          ]
+      },
+      {
+          "id": "catalog-sop-editing-pricing",
+          "title": "Catalog SOP: Editing Pricing",
+          "keywords": [
+              "Amazon Seller Central",
+              "catalog management",
+              "Manage Inventory",
+              "Price Template",
+              "bulk price upload"
+          ]
+      },
+      {
+          "id": "catalog-sop-download-a-referral-fee-preview-report",
+          "title": "Catalog SOP: Download a Referral Fee Preview Report",
+          "keywords": [
+              "Referral Fee Preview",
+              "Amazon Seller Central",
+              "Referral fees",
+              "Inventory Reports",
+              "Pricing strategy"
+          ]
+      },
+      {
+          "id": "merchandising-sop-amazon-listing-creation",
+          "title": "Merchandising SOP: Amazon Listing Creation",
+          "keywords": [
+              "Amazon listing",
+              "Flat file",
+              "GS1 barcode",
+              "Seller Central",
+              "FNSKU"
+          ]
+      },
+      {
+          "id": "catalog-sop-editing-a-coupon",
+          "title": "Catalog SOP: Editing a Coupon",
+          "keywords": [
+              "Amazon Coupons",
+              "Seller Central",
+              "Coupon Editing",
+              "Coupon Budget",
+              "Coupon Scheduling"
+          ]
+      },
+      {
+          "id": "catalog-sop-shipping-template-for-fbm-listings",
+          "title": "Catalog SOP: Shipping Template for FBM Listings",
+          "keywords": [
+              "Shipping template",
+              "FBM shipping",
+              "Seller Central",
+              "Flat-file upload",
+              "merchant_shipping_group_name"
+          ]
+      },
+      {
+          "id": "catalog-sop-advertising-a-social-media-promo-code",
+          "title": "Catalog SOP: Advertising a Social Media Promo Code",
+          "keywords": [
+              "social promo code",
+              "amazon promotions",
+              "promo landing page",
+              "seller central",
+              "utm tracking"
+          ]
+      },
+      {
+          "id": "catalog-sop-setting-and-editing-user-permissions-in-seller-central",
+          "title": "Catalog SOP: Setting and Editing User Permissions in Seller Central",
+          "keywords": [
+              "Amazon Seller Central",
+              "user permissions",
+              "primary user",
+              "secondary user",
+              "permission history"
+          ]
+      },
+      {
+          "id": "catalog-sop-setting-up-return-settings-for-merchant-fulfilled-skus",
+          "title": "Catalog SOP: Setting up Return Settings for Merchant Fulfilled SKUs",
+          "keywords": [
+              "merchant-fulfilled returns",
+              "return settings",
+              "Seller Central",
+              "automated return rules",
+              "return shipping label"
+          ]
+      },
+      {
+          "id": "catalog-sop-setting-up-seller-fulfilled-prime-on-an-existing-shipping-template",
+          "title": "Catalog SOP: Setting up Seller Fulfilled Prime on an Existing Shipping Template",
+          "keywords": [
+              "Seller Fulfilled Prime",
+              "Shipping template",
+              "Amazon Seller Central",
+              "Prime shipping settings",
+              "Delivery zone limit"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-generate-a-promotions-report",
+          "title": "Catalog SOP: How to Generate a Promotions Report",
+          "keywords": [
+              "Promotions Report",
+              "Seller Central",
+              "Promotion metrics",
+              "Fulfillment reports",
+              "CSV download"
+          ]
+      },
+      {
+          "id": "catalog-sop-cancelling-your-vine-enrolled-products-on-seller-central",
+          "title": "Catalog SOP: Cancelling your Vine Enrolled Products on Seller Central",
+          "keywords": [
+              "Vine enrollment cancellation",
+              "Amazon Seller Central",
+              "Vine Program",
+              "ASIN management",
+              "Vine reviews"
+          ]
+      },
+      {
+          "id": "catalog-sop-vendor-central-asin-merge",
+          "title": "Catalog SOP: Vendor Central ASIN Merge",
+          "keywords": [
+              "Vendor Central",
+              "ASIN merge",
+              "duplicate ASINs",
+              "Merge Form",
+              "Catalog consolidation"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-download-clr-in-vendor-central",
+          "title": "Catalog SOP: How to Download CLR in Vendor Central",
+          "keywords": [
+              "Vendor Central",
+              "Category Listing Report",
+              "CLR download",
+              "Browse Node ID",
+              "Catalog export"
+          ]
+      },
+      {
+          "id": "catalog-sop-error-5887",
+          "title": "Catalog SOP: Error 5887",
+          "keywords": [
+              "Error 5887",
+              "Amazon Seller Central",
+              "GTIN exemption",
+              "Flat file upload",
+              "Brand field"
+          ]
+      },
+      {
+          "id": "catalog-sop-product-condition-customer-complaints-used-sold-as-new",
+          "title": "Catalog SOP: Product Condition Customer Complaints (USED SOLD AS NEW)",
+          "keywords": [
+              "Product Condition Complaints",
+              "Used As New",
+              "Amazon FBA QC",
+              "Item Condition Policy",
+              "Packing Standards"
+          ]
+      },
+      {
+          "id": "catalog-sop-disease-medical--pathogens-claims-of-usa",
+          "title": "Catalog SOP: Disease, Medical & Pathogens Claims of USA",
+          "keywords": [
+              "Amazon seller",
+              "disease claims",
+              "dietary supplements",
+              "ASIN appeal",
+              "DSHEA Section 6"
+          ]
+      },
+      {
+          "id": "pm-sop-inviting-new-users-in-amazon-seller-central-new-interface",
+          "title": "PM SOP: Inviting New Users in Amazon Seller Central (New Interface)",
+          "keywords": [
+              "Amazon Seller Central",
+              "user permissions",
+              "add user",
+              "multi-site permissions",
+              "2FA"
+          ]
+      },
+      {
+          "id": "catalog-sop-finding-a-refund-report-on-amazon-seller-central",
+          "title": "Catalog SOP: Finding a Refund Report on Amazon Seller Central",
+          "keywords": [
+              "Amazon Seller Central",
+              "Refund report",
+              "Transaction View",
+              "Payments report",
+              "Refunds analysis"
+          ]
+      },
+      {
+          "id": "catalog-sop-creating-amazon-social-posts",
+          "title": "Catalog SOP: Creating Amazon Social Posts",
+          "keywords": [
+              "Amazon Posts",
+              "Amazon Profiles",
+              "Brand Registry",
+              "ASIN management",
+              "Seller Central"
+          ]
+      },
+      {
+          "id": "catalog-sop-feed-processing-error-code-98888",
+          "title": "Catalog SOP: Feed Processing Error Code: 98888",
+          "keywords": [
+              "Amazon Seller",
+              "Error Code 98888",
+              "flat file",
+              "batteries_required",
+              "supplier_declared_dg_hz_regulation"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-use-sell-globally-to-link-marketplaces",
+          "title": "Catalog SOP: How to Use Sell Globally to Link Marketplaces",
+          "keywords": [
+              "Sell Globally",
+              "marketplace linking",
+              "Amazon Seller Central",
+              "international expansion",
+              "cross-border selling"
+          ]
+      },
+      {
+          "id": "troubleshooting-sop-upc-change-gtin-ean-applicable",
+          "title": "Troubleshooting SOP: UPC Change (GTIN, EAN applicable)",
+          "keywords": [
+              "UPC to GS1",
+              "GTIN change",
+              "ASIN merge",
+              "FBA listings",
+              "Seller Support escalation"
+          ]
+      },
+      {
+          "id": "catalog-sop-restock-report-stand-alone",
+          "title": "Catalog SOP: Restock Report (Stand Alone)",
+          "keywords": [
+              "FBA restock report",
+              "inventory restock",
+              "ManageFBA",
+              "SKU replenishment",
+              "Inventory Performance Index"
+          ]
+      },
+      {
+          "id": "catalog-sop-managing-buyer-seller-messaging-permissions",
+          "title": "Catalog SOP: Managing Buyer-Seller Messaging Permissions",
+          "keywords": [
+              "Buyer-Seller Messaging",
+              "Messaging Permissions",
+              "Authorized Sender",
+              "Blocked Email",
+              "Amazon Seller Central"
+          ]
+      },
+      {
+          "id": "catalog-sop-download-a-sales-dashboard-report",
+          "title": "Catalog SOP: Download a Sales Dashboard Report",
+          "keywords": [
+              "Amazon Seller Central",
+              "Business Reports",
+              "Sales Dashboard",
+              "Sales report download",
+              "SKU breakdown"
+          ]
+      },
+      {
+          "id": "catalog-sop-file-uploads---delete-relist",
+          "title": "Catalog SOP: File Uploads - Delete-Relist",
+          "keywords": [
+              "Delete-Relist",
+              "Flat file upload",
+              "Category Listings Report",
+              "Amazon seller",
+              "Catalog Refresh"
+          ]
+      },
+      {
+          "id": "catalog-sop-fbm-late-shipment",
+          "title": "Catalog SOP: FBM Late Shipment",
+          "keywords": [
+              "FBM late shipments",
+              "merchant-fulfilled orders",
+              "Manage Orders",
+              "Ship by date",
+              "late shipment rate"
+          ]
+      },
+      {
+          "id": "catalog-sop-editing-an-enrolled-vine-product-on-vendor-central",
+          "title": "Catalog SOP: Editing an Enrolled Vine Product on Vendor Central",
+          "keywords": [
+              "Vendor Central",
+              "Amazon Vine",
+              "Vine enrollment",
+              "Edit Enrollments",
+              "Vine Voices queue"
+          ]
+      },
+      {
+          "id": "catalog-sop-listing-customization-tutorial",
+          "title": "Catalog SOP: Listing Customization Tutorial",
+          "keywords": [
+              "listing customization",
+              "Seller Central",
+              "product detail page",
+              "customization template",
+              "inventory requirements"
+          ]
+      },
+      {
+          "id": "troubleshooting-sop-how-to-report-patent-infringement",
+          "title": "Troubleshooting SOP: How to Report Patent Infringement",
+          "keywords": [
+              "Amazon Brand Registry",
+              "patent infringement",
+              "IP report",
+              "design patent",
+              "ASIN dispute"
+          ]
+      },
+      {
+          "id": "catalog-sop-canceling-a-coupon",
+          "title": "Catalog SOP: Canceling a Coupon",
+          "keywords": [
+              "Amazon Seller Central",
+              "Coupon Deactivation",
+              "Cancel Coupon",
+              "Coupon Budget",
+              "Amazon Advertising Coupons"
+          ]
+      },
+      {
+          "id": "merchandising-sop-classify-your-products-using-browse-tree-guides",
+          "title": "Merchandising SOP: Classify Your Products Using Browse Tree Guides",
+          "keywords": [
+              "Browse Node ID",
+              "Browse Tree Guides",
+              "Amazon Seller Central",
+              "Inventory file templates",
+              "Category classification"
+          ]
+      },
+      {
+          "id": "supplemental-article-customer-service-by-amazon",
+          "title": "Supplemental Article: Customer Service by Amazon",
+          "keywords": [
+              "CSBA",
+              "post-order support",
+              "seller-fulfilled orders",
+              "returns and refunds",
+              "Seller Central"
+          ]
+      },
+      {
+          "id": "catalog-sop-managing-enrolled-vine-products-on-seller-central",
+          "title": "Catalog SOP: Managing Enrolled Vine Products on Seller Central",
+          "keywords": [
+              "Vine enrollments",
+              "Seller Central",
+              "Enrollment dashboard",
+              "ASIN management",
+              "Vine reviews"
+          ]
+      },
+      {
+          "id": "catalog-sop-connecting-an-amazon-seller-central-account-with-seller-labs",
+          "title": "Catalog SOP: Connecting an Amazon Seller Central Account with Seller Labs",
+          "keywords": [
+              "Amazon Seller Central",
+              "Seller Labs integration",
+              "Selling Partner API",
+              "Marketplace authorization",
+              "Manage Your Apps"
+          ]
+      },
+      {
+          "id": "catalog-sop-export-reviews-per-asin-using-helium-10-extension",
+          "title": "Catalog SOP: Export Reviews per ASIN Using Helium 10 Extension",
+          "keywords": [
+              "Helium 10",
+              "ASIN reviews",
+              "Export reviews",
+              "Review Insights",
+              "CSV export"
+          ]
+      },
+      {
+          "id": "catalog-sop-errors-while-enrolling-for-amazon-brand-registry",
+          "title": "Catalog SOP: Errors while Enrolling for Amazon Brand Registry",
+          "keywords": [
+              "Amazon Brand Registry",
+              "Brand Registry errors",
+              "trademark registration",
+              "Seller Central integration",
+              "Reference 140 error"
+          ]
+      },
+      {
+          "id": "troubleshooting-sop-how-to-clear-pesticides-gating-amazon-seller-central-answer-key",
+          "title": "Troubleshooting SOP: How to Clear Pesticides Gating Amazon Seller Central (Answer Key)",
+          "keywords": [
+              "pesticide gating",
+              "Amazon Seller Central",
+              "EPA Registration",
+              "pesticidal claims",
+              "gating test answers"
+          ]
+      },
+      {
+          "id": "catalog-sop-creating-a-percentage-off-promotion",
+          "title": "Catalog SOP: Creating a Percentage Off Promotion",
+          "keywords": [
+              "Amazon Seller Central",
+              "Percentage Off Promotion",
+              "Claim Codes",
+              "Promotion Tiers",
+              "Promotion Scheduling"
+          ]
+      },
+      {
+          "id": "brand-registry-sop-how-to-update-brand-name",
+          "title": "Brand Registry SOP: How To Update Brand Name",
+          "keywords": [
+              "Amazon Brand Registry",
+              "Listing Brand Update",
+              "Flat File Upload",
+              "Error 8541",
+              "GS1 Certificate"
+          ]
+      },
+      {
+          "id": "catalog-sop-download-a-stranded-inventory-report",
+          "title": "Catalog SOP: Download a Stranded Inventory Report",
+          "keywords": [
+              "Stranded inventory report",
+              "Seller Central",
+              "Amazon FBA",
+              "ASIN FNSKU",
+              "CSV download"
+          ]
+      },
+      {
+          "id": "logistics-sop-uploading-cost-of-goods-for-amazon-reimbursement-policy-update-effective-march-10th-2025",
+          "title": "Logistics SOP: Uploading Cost of Goods for Amazon Reimbursement Policy Update (Effective March 10th, 2025)",
+          "keywords": [
+              "Amazon FBA",
+              "Seller Central",
+              "Cost of Goods",
+              "Reimbursement Dashboard",
+              "Manage Sourcing Cost"
+          ]
+      },
+      {
+          "id": "quick-reference-guide-user-permission-history-in-seller-central",
+          "title": "Quick Reference Guide: User Permission History in Seller Central",
+          "keywords": [
+              "Seller Central",
+              "User Permission History",
+              "User Permissions",
+              "Audit Trail",
+              "Access Controls"
+          ]
+      },
+      {
+          "id": "catalog-sop-brand-registry-ticket-cases--updates",
+          "title": "Catalog SOP: Brand Registry Ticket Cases & Updates",
+          "keywords": [
+              "Brand Registry",
+              "Brand Support ticket",
+              "Support case log",
+              "ASIN troubleshooting",
+              "Amazon seller support"
+          ]
+      },
+      {
+          "id": "catalog-sop-dropshipping-appeal-policy-template",
+          "title": "Catalog SOP: Dropshipping Appeal Policy Template",
+          "keywords": [
+              "Dropshipping appeal",
+              "Drop Shipping Policy",
+              "Plan of Action",
+              "Seller suspension",
+              "Amazon FBA"
+          ]
+      },
+      {
+          "id": "catalog-sop-download-a-sold-listings-report",
+          "title": "Catalog SOP: Download a Sold Listings Report",
+          "keywords": [
+              "Sold Listings Report",
+              "Seller Central",
+              "Inventory Reports",
+              "Transaction-level Sales",
+              "Sales Audit"
+          ]
+      },
+      {
+          "id": "catalog-sop-editing-an-existing-automated-pricing-rule-manually",
+          "title": "Catalog SOP: Editing an Existing Automated Pricing Rule Manually",
+          "keywords": [
+              "Automate Pricing",
+              "Amazon pricing rule",
+              "ASIN management",
+              "Seller Central",
+              "Pricing optimization"
+          ]
+      },
+      {
+          "id": "catalog-sop-locate-the-brand-store-in-vendor-central",
+          "title": "Catalog SOP: Locate the Brand Store in Vendor Central",
+          "keywords": [
+              "Vendor Central",
+              "Brand Store",
+              "Amazon Brand Registry",
+              "Manage Stores",
+              "Advertising & Stores"
+          ]
+      },
+      {
+          "id": "catalog-sop-update-attributes-using-item-maintenance-form",
+          "title": "Catalog SOP: Update Attributes Using Item Maintenance Form",
+          "keywords": [
+              "Vendor Central",
+              "Item Maintenance Form",
+              "Catalog attribute updates",
+              "ASIN updates",
+              "Quebec Bill 96"
+          ]
+      },
+      {
+          "id": "catalog-sop-set-up-european-fulfillment-network-efn",
+          "title": "Catalog SOP: Set up European Fulfillment Network (EFN)",
+          "keywords": [
+              "European Fulfillment Network",
+              "EFN",
+              "Cross-border fulfillment",
+              "Pan-European FBA",
+              "ASIN eligibility"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-delete-a-listing",
+          "title": "Catalog SOP: How to Delete a Listing",
+          "keywords": [
+              "Amazon Seller Central",
+              "Delete listing",
+              "Inventory Loader Tool",
+              "Category Listings Report",
+              "update_delete"
+          ]
+      },
+      {
+          "id": "catalog-sop-update-fba-weight-and-dimension-cubiscan",
+          "title": "Catalog SOP: Update FBA Weight and Dimension (Cubiscan)",
+          "keywords": [
+              "FBA weight",
+              "FBA dimensions",
+              "Cubiscan measurement",
+              "Remeasure FBA",
+              "FNSKU remeasurement"
+          ]
+      },
+      {
+          "id": "catalog-sop-checking-your-performance-metrics-for-seller-fulfilled-prime",
+          "title": "Catalog SOP: Checking Your Performance Metrics for Seller-Fulfilled Prime",
+          "keywords": [
+              "Seller-Fulfilled Prime",
+              "SFP metrics",
+              "Program Eligibility Scorecard",
+              "Account Health",
+              "Delivery Performance"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-cancel-fba-shipment",
+          "title": "Catalog SOP: How to Cancel FBA Shipment",
+          "keywords": [
+              "FBA shipment cancellation",
+              "Seller Central",
+              "Amazon-partnered carrier",
+              "Inventory adjustments",
+              "Removal order"
+          ]
+      },
+      {
+          "id": "troubleshooting-sop-safe-t-claim-template",
+          "title": "Troubleshooting SOP: SAFE-T Claim Template",
+          "keywords": [
+              "SAFE-T claims",
+              "Amazon Seller Central",
+              "MFN orders",
+              "auto returns",
+              "manual reimbursement"
+          ]
+      },
+      {
+          "id": "quick-reference-guide-product-document-guideline",
+          "title": "Quick Reference Guide: Product Document Guideline",
+          "keywords": [
+              "product document requirements",
+              "PDF upload guidelines",
+              "SDS document types",
+              "watermark policy",
+              "Amazon document policy"
+          ]
+      },
+      {
+          "id": "logistics-sop-reserved-inventory-report-generation-and-management",
+          "title": "Logistics SOP: Reserved Inventory Report Generation and Management",
+          "keywords": [
+              "Reserved Inventory Report",
+              "Seller Central",
+              "FNSKU",
+              "FC Transfer",
+              "Scheduled Reports"
+          ]
+      },
+      {
+          "id": "troubleshooting-sop-creating-cases-for-customer-unrefunded-fba-returns",
+          "title": "Troubleshooting SOP: Creating Cases for Customer Unrefunded FBA Returns",
+          "keywords": [
+              "FBA returns",
+              "reimbursement cases",
+              "Seller Central",
+              "Payments Report",
+              "Order ID"
+          ]
+      },
+      {
+          "id": "merchandising-sop-how-to-set-the-available-quantity-for-merchant-fulfilled-skus",
+          "title": "Merchandising SOP: How to Set the Available Quantity for Merchant Fulfilled SKUs",
+          "keywords": [
+              "Merchant-Fulfilled SKUs",
+              "Seller Central",
+              "Available quantity",
+              "Inventory Loader",
+              "Flat-file uploads"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-update-the-vanity-or-short-store-url",
+          "title": "Catalog SOP: How to Update the Vanity or Short Store URL",
+          "keywords": [
+              "Amazon Brand Store",
+              "vanity URL",
+              "short store URL",
+              "Seller Central Support",
+              "Brand Registry"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-fix-medical-devices-and-accessories-yanks",
+          "title": "Catalog SOP: How to fix Medical Devices and Accessories Yanks",
+          "keywords": [
+              "Amazon FBA",
+              "Medical device listings",
+              "FDA device listing",
+              "510(k) compliance",
+              "Listing reinstatement"
+          ]
+      },
+      {
+          "id": "troubleshooting-sop-how-to-fix-search-suppressed",
+          "title": "Troubleshooting SOP: How to Fix Search Suppressed",
+          "keywords": [
+              "amazon suppressed listing",
+              "seller central",
+              "feed file",
+              "product image requirements",
+              "account health"
+          ]
+      },
+      {
+          "id": "catalog-sop-update-the-title-bullets-description-and-other-attributes",
+          "title": "Catalog SOP: Update the Title, Bullets, Description, and other attributes",
+          "keywords": [
+              "Seller Central",
+              "Listing optimization",
+              "Flat file upload",
+              "Catalog management",
+              "Quebec Bill 96"
+          ]
+      },
+      {
+          "id": "catalog-sop-managing-deactivated-coupons",
+          "title": "Catalog SOP: Managing Deactivated Coupons",
+          "keywords": [
+              "Amazon Coupons",
+              "deactivated coupons",
+              "coupon reactivation",
+              "coupon suppression",
+              "Seller Central"
+          ]
+      },
+      {
+          "id": "catalog-sop-managing-inactive-inventory",
+          "title": "Catalog SOP: Managing Inactive Inventory",
+          "keywords": [
+              "inactive SKUs",
+              "Seller Central",
+              "suppressed listings",
+              "FBA inventory",
+              "catalog management"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-fix-listing-policy-violation",
+          "title": "Catalog SOP: How to Fix Listing Policy Violation",
+          "keywords": [
+              "Amazon listing compliance",
+              "Listing Policy Violation",
+              "Account Health",
+              "reinstatement appeal",
+              "feed batch ID"
+          ]
+      },
+      {
+          "id": "catalog-sop-wrong-brand-name-in-stores-manager",
+          "title": "Catalog SOP: Wrong Brand Name in Stores Manager",
+          "keywords": [
+              "Seller Central",
+              "Brand Registry",
+              "Merchant Token",
+              "Store Manager",
+              "Catalog Management"
+          ]
+      },
+      {
+          "id": "catalog-sop-updating-product-listing-images",
+          "title": "Catalog SOP: Updating Product Listing Images",
+          "keywords": [
+              "Amazon Seller Central",
+              "product image update",
+              "Manage Images",
+              "flat file upload",
+              "image URL"
+          ]
+      },
+      {
+          "id": "catalog-sop-pcrp-restriction-reinstatement",
+          "title": "Catalog SOP: PCRP Restriction Reinstatement",
+          "keywords": [
+              "PCRP reinstatement",
+              "Amazon Seller Central",
+              "legal_compliance_certification",
+              "NPN DIN",
+              "batch feed upload"
+          ]
+      },
+      {
+          "id": "catalog-sop-managing-pricing",
+          "title": "Catalog SOP: Managing Pricing",
+          "keywords": [
+              "Seller Central",
+              "Manage Pricing",
+              "Buy Box",
+              "Match Lowest Price",
+              "Calculate revenue"
+          ]
+      },
+      {
+          "id": "brand-registry-sop-copying-brand-store-to-another-marketplace",
+          "title": "Brand Registry SOP: Copying Brand Store to Another Marketplace",
+          "keywords": [
+              "Amazon Brand Registry",
+              "Brand Store Migration",
+              "Creative Assets",
+              "Seller Central Stores",
+              "Marketplace Replication"
+          ]
+      },
+      {
+          "id": "catalog-sop-error-99001-and-90041",
+          "title": "Catalog SOP: Error 99001 and 90041",
+          "keywords": [
+              "Amazon flat file",
+              "Error 99001",
+              "Error 90041",
+              "Processing Report",
+              "required attributes"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-cancel-fba-removal-order",
+          "title": "Catalog SOP: How to Cancel FBA Removal Order",
+          "keywords": [
+              "FBA removal",
+              "cancel removal order",
+              "Seller Central",
+              "Removal Order ID",
+              "Required Removals"
+          ]
+      },
+      {
+          "id": "catalog-sop-cancelling-a-lightning-deal-in-seller-central",
+          "title": "Catalog SOP: Cancelling a Lightning Deal in Seller Central",
+          "keywords": [
+              "Cancel Lightning Deal",
+              "Lightning Deal",
+              "Seller Central",
+              "Deals dashboard",
+              "Deal eligibility"
+          ]
+      },
+      {
+          "id": "catalog-sop-error-90118",
+          "title": "Catalog SOP: Error 90118",
+          "keywords": [
+              "Error 90118",
+              "SKU byte limit",
+              "Amazon catalog",
+              "feed upload",
+              "byte counter"
+          ]
+      },
+      {
+          "id": "catalog-sop-locating-browse-tree",
+          "title": "Catalog SOP: Locating Browse Tree",
+          "keywords": [
+              "Browse Tree Guide",
+              "Item Type Keyword",
+              "Node ID",
+              "Category-Specific Template",
+              "Browse Nodes"
+          ]
+      },
+      {
+          "id": "catalog-sop-customer-service---buyer-messages-refund-and-replacement",
+          "title": "Catalog SOP: Customer Service - Buyer Messages, Refund and Replacement",
+          "keywords": [
+              "Buyer Messages",
+              "Refund Processing",
+              "Replacement Orders",
+              "FBM",
+              "Multi-Channel Fulfillment"
+          ]
+      },
+      {
+          "id": "catalog-sop-creating-an-unshipped-orders-report",
+          "title": "Catalog SOP: Creating an Unshipped Orders Report",
+          "keywords": [
+              "Unshipped Orders report",
+              "Order Reports",
+              "Seller Central",
+              "CSV export",
+              "Report columns"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-generate-a-reimbursements-report",
+          "title": "Catalog SOP: How to Generate a Reimbursements Report",
+          "keywords": [
+              "Reimbursements report",
+              "Amazon Seller Central",
+              "FBA reimbursements",
+              "Reimbursement ID",
+              "Fulfillment reports"
+          ]
+      },
+      {
+          "id": "logistics-sop-how-to-send-inventory-to-amazon-warehousing-and-distribution-awd",
+          "title": "Logistics SOP: How to Send inventory to Amazon Warehousing and Distribution (AWD)",
+          "keywords": [
+              "Amazon AWD",
+              "Seller Central",
+              "SSCC labels",
+              "inventory shipping",
+              "Carrier Central"
+          ]
+      },
+      {
+          "id": "catalog-sop-category-gating---template",
+          "title": "Catalog SOP: Category Gating - Template",
+          "keywords": [
+              "Category gating",
+              "Seller Central",
+              "Listing approval",
+              "Purchase invoices",
+              "Catalog template"
+          ]
+      },
+      {
+          "id": "catalog-sop-duplicating-an-existing-buy-one-get-one-promotion",
+          "title": "Catalog SOP: Duplicating an Existing Buy One Get One Promotion",
+          "keywords": [
+              "BOGO promotion",
+              "Seller Central",
+              "Duplicate promotion",
+              "Tracking ID",
+              "Manage Promotions"
+          ]
+      },
+      {
+          "id": "catalog-sop-contacting-buyers-via-buyer-seller-messages",
+          "title": "Catalog SOP: Contacting Buyers via Buyer-Seller Messages",
+          "keywords": [
+              "Buyer-Seller Messages",
+              "Manage Orders",
+              "Encrypted buyer email",
+              "Messaging Permissions",
+              "Order-related messaging"
+          ]
+      },
+      {
+          "id": "catalog-sop-eligibility-criteria-for-seller-fulfilled-prime",
+          "title": "Catalog SOP: Eligibility Criteria for Seller Fulfilled Prime",
+          "keywords": [
+              "Seller Fulfilled Prime",
+              "SFP eligibility",
+              "Buy Shipping Services",
+              "Prime shipping requirements",
+              "On-time shipment"
+          ]
+      },
+      {
+          "id": "catalog-sop-download-return-reports",
+          "title": "Catalog SOP: Download Return Reports",
+          "keywords": [
+              "Seller Central",
+              "Return Reports",
+              "returns download",
+              "XML TSV",
+              "returns analysis"
+          ]
+      },
+      {
+          "id": "catalog-sop-creating-a-referral-fee-discounts-report",
+          "title": "Catalog SOP: Creating a Referral Fee Discounts Report",
+          "keywords": [
+              "Referral discounts",
+              "Seller Central",
+              "Inventory Reports",
+              "CSV download",
+              "Referral analytics"
+          ]
+      },
+      {
+          "id": "catalog-sop-managing-listing-enhancements",
+          "title": "Catalog SOP: Managing Listing Enhancements",
+          "keywords": [
+              "Listing Enhancements",
+              "Amazon Seller Central",
+              "Listing optimization",
+              "SKU management",
+              "Product discoverability"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-add-asins-skus-in-the-subscribe-and-save-program",
+          "title": "Catalog SOP: How to Add ASINs/SKUs in the Subscribe and Save program",
+          "keywords": [
+              "Subscribe & Save",
+              "FBA",
+              "ASIN enrollment",
+              "enrollment discount",
+              "Manage Products"
+          ]
+      },
+      {
+          "id": "catalog-sop-creating-a-seller-performance-report-by-date",
+          "title": "Catalog SOP: Creating a Seller Performance Report by Date",
+          "keywords": [
+              "Seller Performance Report",
+              "Seller Central",
+              "Date-based Reporting",
+              "SKU Performance",
+              "CSV Export"
+          ]
+      },
+      {
+          "id": "catalog-sop-download-an-amazon-fulfilled-shipments-report",
+          "title": "Catalog SOP: Download an Amazon Fulfilled Shipments Report",
+          "keywords": [
+              "Fulfilled Shipments Report",
+              "Seller Central",
+              "FBA reconciliation",
+              "SP-API automation",
+              "tracking numbers"
+          ]
+      },
+      {
+          "id": "catalog-sop-error-8026",
+          "title": "Catalog SOP: Error 8026",
+          "keywords": [
+              "Error 8026",
+              "Amazon approval",
+              "Restricted categories",
+              "Seller Central",
+              "Flat file upload"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-download-a-cancelled-listings-report",
+          "title": "Catalog SOP: How to download a Cancelled Listings Report",
+          "keywords": [
+              "Cancelled Listings Report",
+              "Seller Central",
+              "Inventory Reports",
+              "listing cancellations",
+              "Amazon seller"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-generate-a-fee-preview-report",
+          "title": "Catalog SOP: How to Generate a Fee Preview Report",
+          "keywords": [
+              "Fee Preview",
+              "Seller Central",
+              "FBA fees",
+              "Fulfillment reports",
+              "CSV download"
+          ]
+      },
+      {
+          "id": "logistics-sop-setting-up-the-returns-policy-for-your-merchant-fulfilled-orders",
+          "title": "Logistics SOP: Setting up the Returns Policy for your Merchant Fulfilled Orders",
+          "keywords": [
+              "merchant-fulfilled orders",
+              "returns policy",
+              "Amazon Seller Central",
+              "return window",
+              "restocking fees"
+          ]
+      },
+      {
+          "id": "catalog-sop-editing-a-buy-one-get-one-promotion",
+          "title": "Catalog SOP: Editing a Buy One Get One Promotion",
+          "keywords": [
+              "Amazon Seller Central",
+              "BOGO promotion",
+              "Edit promotions",
+              "Coupon tracking",
+              "Promotion approvals"
+          ]
+      },
+      {
+          "id": "logistics-sop-fba-customer-returns-reimbursements",
+          "title": "Logistics SOP: FBA Customer Returns Reimbursements",
+          "keywords": [
+              "FBA reimbursements",
+              "Customer returns",
+              "Missing reimbursements",
+              "Seller Central reports",
+              "Transaction View"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-dispute-shortage-claims-po-on-vendor-central",
+          "title": "Catalog SOP: How to Dispute Shortage Claims PO on Vendor Central",
+          "keywords": [
+              "Vendor Central",
+              "shortage claim",
+              "PO dispute",
+              "Bill of Lading",
+              "proof of delivery"
+          ]
+      },
+      {
+          "id": "catalog-sop-managing-your-buy-box-percentage",
+          "title": "Catalog SOP: Managing Your Buy Box Percentage",
+          "keywords": [
+              "Buy Box",
+              "Featured Offer",
+              "Amazon Seller Central",
+              "Order Defect Rate",
+              "Automate Pricing"
+          ]
+      },
+      {
+          "id": "catalog-sop-editing-variations-manually",
+          "title": "Catalog SOP: Editing Variations Manually",
+          "keywords": [
+              "product variations",
+              "ASIN management",
+              "Seller Central",
+              "variation theme",
+              "catalog management"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-check-hidden-suppression",
+          "title": "Catalog SOP: How to Check Hidden Suppression",
+          "keywords": [
+              "Hidden suppression",
+              "ASIN visibility",
+              "Category Listing Report",
+              "Seller Central",
+              "Manage Inventory"
+          ]
+      },
+      {
+          "id": "catalog-sop-download-a-listing-quality-and-suppressed-listing-report",
+          "title": "Catalog SOP: Download a Listing Quality and Suppressed Listing Report",
+          "keywords": [
+              "Suppressed listings",
+              "Listing Quality Report",
+              "Seller Central",
+              "ASIN suppression",
+              "Catalog management"
+          ]
+      },
+      {
+          "id": "catalog-sop-how-to-download-an-open-listings-report",
+          "title": "Catalog SOP: How to download an Open Listings Report",
+          "keywords": [
+              "Open Listings Report",
+              "Seller Central",
+              "Inventory Reports",
+              "Amazon listings",
+              "Report customization"
+          ]
+      },
+      {
+          "id": "catalog-sop-product-condition-customer-complaints-expired",
+          "title": "Catalog SOP: Product Condition Customer Complaints (Expired)",
+          "keywords": [
+              "Amazon FBA",
+              "Product condition complaints",
+              "Expiration date policy",
+              "BIN check",
+              "QC checklist"
+          ]
+      },
+      {
+          "id": "catalog-sop-a-b-test-bullet-points",
+          "title": "Catalog SOP: A/B Test (Bullet Points)",
+          "keywords": [
+              "Amazon A/B testing",
+              "Seller Central experiments",
+              "Bullet point testing",
+              "Listing optimization",
+              "Parent ASIN testing"
+          ]
+      },
+      {
+          "id": "catalog-sop-editing-a-social-media-promo-code",
+          "title": "Catalog SOP: Editing a Social Media Promo Code",
+          "keywords": [
+              "Amazon Promotions",
+              "Seller Central",
+              "Social Media Promo",
+              "Claim Code",
+              "ASIN eligibility"
+          ]
+      },
+      {
+          "id": "quick-reference-guide-seller-central-new-homepage",
+          "title": "Quick Reference Guide: Seller Central New Homepage",
+          "keywords": [
+              "Seller Central homepage",
+              "Account Health",
+              "Action Center",
+              "Business Performance Chart",
+              "Product Performance"
+          ]
+      },
+      {
+          "id": "catalog-sop-childrens-product-safety-request-or-childrens-product-certificate-cpc",
+          "title": "Catalog SOP: Children's Product Safety Request Or Children\u2019s Product Certificate (CPC)",
+          "keywords": [
+              "CPC",
+              "Children's Product Certificate",
+              "CPSIA compliance",
+              "Amazon product compliance",
+              "Third party testing"
+          ]
+      },
+      {
+          "id": "catalog-sop-remove-inventory-from-a-fulfillment-center",
+          "title": "Catalog SOP: Remove Inventory from a Fulfillment Center",
+          "keywords": [
+              "Amazon FBA",
+              "Removal order",
+              "Fulfillment center",
+              "Removal order fees",
+              "FBA liquidations"
+          ]
+      },
+      {
+          "id": "catalog-sop-amazon-damaged-and-lost-inventory-reimbursements",
+          "title": "Catalog SOP: Amazon Damaged and Lost Inventory Reimbursements",
+          "keywords": [
+              "Amazon FBA",
+              "Lost inventory",
+              "Damaged inventory",
+              "Inventory Ledger",
+              "FNSKU"
+          ]
+      },
+      {
+          "id": "catalog-sop-delivery-document---fba-restock",
+          "title": "Catalog SOP: Delivery Document - FBA Restock",
+          "keywords": [
+              "Amazon FBA",
+              "FBA restock",
+              "weekly restock",
+              "2-month supply",
+              "inbound inventory"
+          ]
+      },
+      {
+          "id": "catalog-sop-video-rejected",
+          "title": "Catalog SOP: Video Rejected",
+          "keywords": [
+              "Amazon video rejection",
+              "Seller Central videos",
+              "Video technical specs",
+              "Content violation",
+              "Video ID"
+          ]
+      },
+      {
+          "id": "catalog-sop-error-13043-90114",
+          "title": "Catalog SOP: Error 13043, 90114",
+          "keywords": [
+              "Amazon Seller Central",
+              "flat file upload",
+              "Error 13043",
+              "Error 90114",
+              "standard_price"
+          ]
+      },
+      {
+          "id": "catalog-sop-unauthorized-merging-of-two-parent-asins",
+          "title": "Catalog SOP: Unauthorized Merging of Two Parent ASINs",
+          "keywords": [
+              "parent ASIN merge",
+              "variation wizard",
+              "rebuild variations",
+              "delete and relist",
+              "Seller Support Catalog"
+          ]
+      },
+      {
+          "id": "catalog-sop-creating-seller-fulfilled-prime-skus-for-your-asins",
+          "title": "Catalog SOP: Creating Seller Fulfilled Prime SKUs for Your ASINs",
+          "keywords": [
+              "Seller Fulfilled Prime",
+              "FBM SKU",
+              "Seller Central",
+              "Merchant Fulfilled",
+              "Prime-eligible listings"
+          ]
+      },
+      {
+          "id": "catalog-sop-setting-the-available-quantity-for-seller-fulfilled-prime-skus",
+          "title": "Catalog SOP: Setting the Available Quantity for Seller-Fulfilled Prime SKUs",
+          "keywords": [
+              "Seller-Fulfilled Prime",
+              "Available quantity",
+              "Seller Central",
+              "FBM SKUs",
+              "SP-API"
+          ]
+      },
+      {
+          "id": "troubleshooting-sop-unlink-ca-mx-inventory-from-us-inventory",
+          "title": "Troubleshooting SOP: Unlink CA/MX Inventory From US Inventory",
+          "keywords": [
+              "Build International Listings",
+              "Unlink CA/MX inventory",
+              "Seller Central",
+              "Cross-border inventory",
+              "FBA removal order"
+          ]
+      },
+      {
+          "id": "catalog-sop-edit-an-automated-pricing-rule-via-file-template",
+          "title": "Catalog SOP: Edit an Automated Pricing Rule via File Template",
+          "keywords": [
+              "Automate Pricing",
+              "Seller Central",
+              "CSV template",
+              "Bulk price updates",
+              "Automated pricing rule"
+          ]
+      },
+      {
+          "id": "catalog-sop-managing-fsa-hsa-eligible-products",
+          "title": "Catalog SOP: Managing FSA/HSA Eligible Products",
+          "keywords": [
+              "FSA/HSA eligibility",
+              "SIGIS UPC",
+              "Amazon Seller Central",
+              "catalog management",
+              "ASIN/SKU verification"
+          ]
+      },
+      {
+          "id": "catalog-sop-viewing-social-media-promo-code-costs-and-performance",
+          "title": "Catalog SOP: Viewing Social Media Promo Code Costs and Performance",
+          "keywords": [
+              "Seller Central",
+              "Social Media Promo Codes",
+              "Referral Fees",
+              "Transaction View",
+              "Promo Cost Tracking"
+          ]
+      },
+      {
+          "id": "catalog-sop-insurance-certificate-uploading",
+          "title": "Catalog SOP: Insurance Certificate Uploading",
+          "keywords": [
+              "Amazon Seller Central",
+              "Certificate of Insurance",
+              "Insurance certificate upload",
+              "Business insurance",
+              "Insurance policy requirements"
+          ]
+      }
+    ],
+    "Design": [
+      {
+          "id": "creative-sop-amazon-image-best-practices",
+          "title": "Creative SOP: Amazon Image Best Practices",
+          "keywords": [
+              "Amazon product images",
+              "main image guidelines",
+              "image resolution",
+              "ecommerce photography",
+              "Amazon image policy"
+          ]
+      },
+      {
+          "id": "design-sop-how-to-design-a-ctr-hack-main-image",
+          "title": "Design SOP: How to Design a CTR Hack Main Image",
+          "keywords": [
+              "Amazon main image",
+              "CTR Hack",
+              "image optimization",
+              "Brand Analytics",
+              "Cerebro keywords"
+          ]
+      },
+      {
+          "id": "design-sop-identifying-font-styles-on-websites",
+          "title": "Design SOP: Identifying Font Styles on Websites",
+          "keywords": [
+              "web font identification",
+              "browser DevTools",
+              "Fonts Ninja",
+              "Inspect Element",
+              "PostScript name"
+          ]
+      },
+      {
+          "id": "design-sop-brand-store-creation",
+          "title": "Design SOP: Brand Store Creation",
+          "keywords": [
+              "Amazon Brand Store",
+              "Seller Central",
+              "Store Builder",
+              "Tiles & Templates",
+              "PDP links"
+          ]
+      },
+      {
+          "id": "design-sop-amazon-photo-rules--guide",
+          "title": "Design SOP: Amazon Photo Rules & Guide",
+          "keywords": [
+              "Amazon product images",
+              "Main image rules",
+              "Image specifications",
+              "Filename conventions",
+              "Brand Registry"
+          ]
+      },
+      {
+          "id": "design-sop-creating-a-content-and-brand-story-modules",
+          "title": "Design SOP: Creating A+ Content and Brand Story Modules",
+          "keywords": [
+              "Amazon A+ Content",
+              "Brand Story",
+              "PDP optimization",
+              "A+ image specs",
+              "Comparison chart"
+          ]
+      }
+    ],
+    "General": [
+      {
+          "id": "general-sop-uploading-cogs",
+          "title": "General SOP: Uploading COGs",
+          "keywords": [
+              "COGS upload",
+              "Merchant Spring",
+              "Product Profit",
+              "ShippingCost",
+              "Amazon seller"
+          ]
+      },
+      {
+          "id": "quick-reference-guide-using-hubspot-for-client-calls",
+          "title": "Quick Reference Guide: Using HubSpot for Client Calls",
+          "keywords": [
+              "HubSpot calling",
+              "JustCall integration",
+              "call transcription",
+              "CRM call logging",
+              "client call SOP"
+          ]
+      },
+      {
+          "id": "general-sop-how-to-print-gs1-certificates",
+          "title": "General SOP: How to Print GS1 Certificates",
+          "keywords": [
+              "GS1 certificate",
+              "GS1 Company Prefix",
+              "GS1 Data Hub",
+              "GTIN certificate",
+              "Amazon Brand Registry"
+          ]
+      },
+      {
+          "id": "general-sop-weekly-reporting-sop",
+          "title": "General SOP: Weekly Reporting SOP",
+          "keywords": [
+              "Amazon seller",
+              "weekly reporting",
+              "Seller Central",
+              "Campaign Manager",
+              "True ACoS"
+          ]
+      },
+      {
+          "id": "general-sop-how-to-create-an-attribution-tag",
+          "title": "General SOP: How to Create an Attribution Tag",
+          "keywords": [
+              "Amazon Attribution",
+              "attribution tag",
+              "Seller Central",
+              "Campaign Manager",
+              "ASIN tracking"
+          ]
+      },
+      {
+          "id": "supplemental-article-amazon-product-launch-guide",
+          "title": "Supplemental Article: Amazon Product Launch Guide",
+          "keywords": [
+              "Amazon product launch",
+              "FBA launch",
+              "Brand Registry",
+              "A+ Content",
+              "backend search terms"
+          ]
+      },
+      {
+          "id": "general-sop--helium-10-follow-up-tool",
+          "title": "General SOP:  Helium 10 Follow-Up Tool",
+          "keywords": [
+              "Helium 10 Follow-Up",
+              "Amazon seller",
+              "Automated buyer emails",
+              "Review request templates",
+              "Order Delivered trigger"
+          ]
+      },
+      {
+          "id": "general-sop-how-to-switch-tabs-while-presenting-in-google-meet",
+          "title": "General SOP: How to Switch Tabs While Presenting in Google Meet",
+          "keywords": [
+              "Google Meet",
+              "Chrome tab sharing",
+              "Share tab instead",
+              "Switch tabs",
+              "Tab audio"
+          ]
+      },
+      {
+          "id": "acronyms-and-definition-of-terms",
+          "title": "Acronyms and Definition of terms",
+          "keywords": [
+              "Amazon Seller Central",
+              "Vendor Central",
+              "Walmart Marketplace",
+              "FBA consignment",
+              "ACOS"
+          ]
+      },
+      {
+          "id": "brand-management-sop-narf-pitch",
+          "title": "Brand Management SOP: NARF Pitch",
+          "keywords": [
+              "Remote Fulfillment",
+              "NARF Pitch",
+              "FBA Export",
+              "North American Unified Account",
+              "Amazon Canada ads"
+          ]
+      },
+      {
+          "id": "general-sop-helium-10-heat-maps",
+          "title": "General SOP: Helium 10 Heat Maps",
+          "keywords": [
+              "Helium 10 Heat Maps",
+              "Amazon FBA",
+              "inventory distribution",
+              "Profits tool",
+              "ASIN search"
+          ]
+      },
+      {
+          "id": "general-sop-how-to-submit-a-dispute-a-content-id-claim-on-youtube",
+          "title": "General SOP: How to Submit a Dispute a Content ID Claim on Youtube",
+          "keywords": [
+              "YouTube Content ID",
+              "Content ID dispute",
+              "YouTube Studio",
+              "copyright claim",
+              "license proof"
+          ]
+      },
+      {
+          "id": "general-sop-how-to-use-document-360",
+          "title": "General SOP: How to use Document 360",
+          "keywords": [
+              "Document360",
+              "knowledge base",
+              "content search",
+              "article feedback",
+              "internal documentation"
+          ]
+      },
+      {
+          "id": "general-sop-how-to-create-an-amazon-seller-central-account",
+          "title": "General SOP: How to Create an Amazon Seller Central Account",
+          "keywords": [
+              "Amazon Seller Central",
+              "Seller account setup",
+              "Identity verification",
+              "GTIN exemption",
+              "Beneficial owner"
+          ]
+      },
+      {
+          "id": "supplemental-article-ensuring-consistent-communication-through-multi-threading",
+          "title": "Supplemental Article: Ensuring Consistent Communication Through Multi-Threading",
+          "keywords": [
+              "Multi-threading",
+              "omnichannel outreach",
+              "customer follow-up",
+              "escalation protocol",
+              "preference tracking"
+          ]
+      },
+      {
+          "id": "general-sop-definition-and-overview-of-amazons-programs",
+          "title": "General SOP: Definition and Overview of Amazon's Programs",
+          "keywords": [
+              "Amazon programs",
+              "Seller Central",
+              "Vendor Central",
+              "Amazon FBA",
+              "Amazon MWS"
+          ]
+      },
+      {
+          "id": "general-sop-how-to-make-html-tags",
+          "title": "General SOP: How to Make HTML Tags",
+          "keywords": [
+              "HTML tags",
+              "heading tags",
+              "HTML converter",
+              "anchor tags",
+              "ol ul li"
+          ]
+      },
+      {
+          "id": "general-sop-add-user-to-vendor-central",
+          "title": "General SOP: Add User to Vendor Central",
+          "keywords": [
+              "Vendor Central",
+              "Vendor Central user",
+              "manage permissions",
+              "banking permissions",
+              "GS1 certificate"
+          ]
+      },
+      {
+          "id": "general-sop-calling-into-amazon",
+          "title": "General SOP: Calling Into Amazon",
+          "keywords": [
+              "Seller Central callback",
+              "Selling Partner Support",
+              "Amazon phone support",
+              "Sponsored Ads support",
+              "Campaign Manager"
+          ]
+      },
+      {
+          "id": "supplemental-article--amazon-seller-central-home-page-basic-navigation",
+          "title": "Supplemental Article : Amazon Seller Central Home Page Basic Navigation",
+          "keywords": [
+              "Seller Central",
+              "homepage navigation",
+              "Account Health",
+              "Inventory Performance Index",
+              "ASIN Merge Tool"
+          ]
+      },
+      {
+          "id": "supplemental-article-reviving-sales-on-amazon-strategies-for-overcoming-common-seller-challenges",
+          "title": "Supplemental Article: Reviving Sales on Amazon (Strategies for Overcoming Common Seller Challenges)",
+          "keywords": [
+              "Amazon sales recovery",
+              "stockout mitigation",
+              "search suppressions",
+              "Buy Box loss",
+              "NCX suppressions"
+          ]
+      },
+      {
+          "id": "general-sop-how-to-do-a-viral-launch",
+          "title": "General SOP: How to do a Viral Launch",
+          "keywords": [
+              "Viral Launch",
+              "Amazon Seller",
+              "Percentage-Off Promotion",
+              "Max Order Quantity",
+              "Listing Optimization"
+          ]
+      },
+      {
+          "id": "general-sop-how-to-use-keepa",
+          "title": "General SOP: How To Use Keepa",
+          "keywords": [
+              "Keepa extension",
+              "Amazon price tracking",
+              "price history",
+              "sales rank analysis",
+              "price alerts"
+          ]
+      }
+    ],
+    "Sourcing": [
+      {
+          "id": "sourcing-sop-market-research",
+          "title": "Sourcing SOP: Market Research",
+          "keywords": [
+              "Amazon product research",
+              "Helium 10",
+              "Niche validation",
+              "Market saturation",
+              "FBA profitability"
+          ]
+      },
+      {
+          "id": "sourcing-sop-identifying-profitable-product-niches",
+          "title": "Sourcing SOP: Identifying Profitable Product Niches",
+          "keywords": [
+              "Amazon product research",
+              "reverse ASIN",
+              "Helium 10",
+              "long-tail keywords",
+              "FBA sourcing"
+          ]
+      },
+      {
+          "id": "sourcing-sop-understanding-amazon-selling-basics",
+          "title": "Sourcing SOP: Understanding Amazon Selling Basics",
+          "keywords": [
+              "Amazon FBA",
+              "FBM",
+              "product listings",
+              "Browse Tree Guide",
+              "Order Defect Rate"
+          ]
+      },
+      {
+          "id": "sourcing-sop-supplier-sourcing-strategies",
+          "title": "Sourcing SOP: Supplier Sourcing Strategies",
+          "keywords": [
+              "Supplier sourcing",
+              "Amazon FBA sourcing",
+              "Manufacturer sourcing",
+              "Dropshipping suppliers",
+              "Third-party inspections"
+          ]
+      }
+    ],
+    "SEO": [
+      {
+          "id": "seo-sop-organic-ranking-versus-sponsored-ranking",
+          "title": "SEO SOP: Organic Ranking Versus Sponsored Ranking",
+          "keywords": [
+              "Organic ranking",
+              "Sponsored ranking",
+              "Amazon PPC",
+              "BSR",
+              "Listing optimization"
+          ]
+      },
+      {
+          "id": "seo-sop-indexing-vs-ranking",
+          "title": "SEO SOP: Indexing vs Ranking",
+          "keywords": [
+              "Amazon indexing",
+              "ASIN indexing",
+              "Amazon ranking",
+              "backend keywords",
+              "listing optimization"
+          ]
+      },
+      {
+          "id": "seo-sop-competitor-research",
+          "title": "SEO SOP: Competitor Research",
+          "keywords": [
+              "Amazon competitor research",
+              "Helium 10 Xray",
+              "ASIN analysis",
+              "Competitor benchmarking",
+              "FBA market research"
+          ]
+      },
+      {
+          "id": "seo-sop-create-meta-description-using-master-keyword-list-mkl--how-to-set-the-meta-description-of-any-page-in-a-brand-store",
+          "title": "SEO SOP: Create Meta Description Using Master Keyword List (MKL) + How to Set the Meta Description of Any Page in a Brand Store",
+          "keywords": [
+              "Amazon Brand Store",
+              "meta descriptions",
+              "Master Keyword List",
+              "Seller Central",
+              "store SEO"
+          ]
+      },
+      {
+          "id": "seo-sop-market-share-report",
+          "title": "SEO SOP: Market Share Report",
+          "keywords": [
+              "Amazon Brand Analytics",
+              "Search Query Performance",
+              "Market Share Report",
+              "Seller Central",
+              "Brand Share tracking"
+          ]
+      },
+      {
+          "id": "seo-sop-amazon-honeymoon-period",
+          "title": "SEO SOP: Amazon Honeymoon Period",
+          "keywords": [
+              "Amazon honeymoon period",
+              "sales velocity",
+              "Amazon PPC",
+              "listing optimization",
+              "BSR improvement"
+          ]
+      },
+      {
+          "id": "seo-sop-how-to-find-relevant-keywords-in-magnet",
+          "title": "SEO SOP: How to Find Relevant Keywords in Magnet",
+          "keywords": [
+              "Helium 10 Magnet",
+              "Amazon keyword research",
+              "ASIN keyword mapping",
+              "Search volume trends",
+              "PPC keyword discovery"
+          ]
+      },
+      {
+          "id": "catalog-sop-creating-a-sales-and-orders-by-month-report",
+          "title": "Catalog SOP: Creating a Sales and Orders by Month Report",
+          "keywords": [
+              "Amazon Seller Central",
+              "Business Reports",
+              "Monthly sales report",
+              "CSV export",
+              "Sales by month"
+          ]
+      },
+      {
+          "id": "seo-sop-phase-1---how-to-construct-master-keyword-list-mkl-and-highly-optimized-backend-search-terms-through-helium10-cerebro-reverse-asin-lookup",
+          "title": "SEO SOP: Phase 1 - How To Construct Master Keyword List (MKL) and Highly-Optimized Backend Search Terms Through Helium10 Cerebro Reverse ASIN Lookup",
+          "keywords": [
+              "Amazon SEO",
+              "Master Keyword List",
+              "Reverse ASIN",
+              "Helium 10 Cerebro",
+              "Backend Search Terms"
+          ]
+      },
+      {
+          "id": "seo-sop-optimization-of-title-bullets--description",
+          "title": "SEO SOP: Optimization of Title, Bullets, & Description",
+          "keywords": [
+              "Amazon listing optimization",
+              "Title bullets description",
+              "Master Keyword List",
+              "Scribbles workflow",
+              "Amazon compliance"
+          ]
+      },
+      {
+          "id": "seo-sop-qa-checklist-for-copywriting",
+          "title": "SEO SOP: QA Checklist for Copywriting",
+          "keywords": [
+              "Amazon copywriting",
+              "product listing QA",
+              "title optimization",
+              "crawlable text",
+              "Amazon SEO"
+          ]
+      },
+      {
+          "id": "seo-sop-phase-2-seo---incremental-indexing",
+          "title": "SEO SOP: Phase 2 SEO - Incremental Indexing",
+          "keywords": [
+              "Amazon SEO",
+              "Incremental indexing",
+              "Search terms optimization",
+              "Helium10 Scribbles",
+              "Frankenstein dedupe"
+          ]
+      },
+      {
+          "id": "seo-sop-phase-4---intent-based-strategy---leveraging-conversion-and-click-through-rates-for-market-share-expansion",
+          "title": "SEO SOP: Phase 4 - Intent-Based Strategy - Leveraging Conversion and Click-through Rates for Market Share Expansion",
+          "keywords": [
+              "Amazon intent SEO",
+              "Search Query Performance",
+              "Backend search terms",
+              "CTR optimization",
+              "Helium 10"
+          ]
+      },
+      {
+          "id": "seo-sop-tracking-organic-keyword-indexing-and-ranking-for-amazon-listings-through-helium10",
+          "title": "SEO SOP: Tracking Organic Keyword Indexing and Ranking for Amazon Listings Through Helium10",
+          "keywords": [
+              "Amazon SEO",
+              "ASIN indexing",
+              "Helium10 Keyword Tracker",
+              "Organic rank tracking",
+              "Cerebro reverse lookup"
+          ]
+      },
+      {
+          "id": "seo-sop-prohibited-amazon-terms--phrases-with-creative",
+          "title": "SEO SOP: Prohibited Amazon Terms & Phrases with Creative",
+          "keywords": [
+              "Amazon compliance",
+              "Listing copy SOP",
+              "Prohibited terms",
+              "Supplement claims",
+              "FIFRA compliance"
+          ]
+      },
+      {
+          "id": "seo-sop-how-to-construct-alt-text-and-add-them-to-a-content-images",
+          "title": "SEO SOP: How to Construct Alt-Text and Add Them to A+ Content Images",
+          "keywords": [
+              "A+ alt-text",
+              "Amazon image SEO",
+              "Alt-text SOP",
+              "A+ Content optimization",
+              "MKL keywords"
+          ]
+      },
+      {
+          "id": "seo-sop-utilizing-a-balanced-mix-of-organic-seo-and-sponsored-content-for-maximum-visibility",
+          "title": "SEO SOP: Utilizing a Balanced Mix of Organic SEO and Sponsored Content for Maximum Visibility",
+          "keywords": [
+              "Amazon SEO",
+              "Amazon PPC",
+              "Listing optimization",
+              "SEO-PPC ratio",
+              "Amazon keyword research"
+          ]
+      },
+      {
+          "id": "seo-sop-phrases-for-amazon-copy-and-search-terms---words-you-cant-use",
+          "title": "SEO SOP: Phrases for Amazon Copy and Search Terms - Words You Can't Use",
+          "keywords": [
+              "Amazon listing compliance",
+              "Amazon SEO SOP",
+              "forbidden listing terms",
+              "backend search terms",
+              "A+ content restrictions"
+          ]
+      },
+      {
+          "id": "seo-sop-phase-3-seo---high-level-keyword-strategy-for-advanced-keyword-striking-distance-rankings",
+          "title": "SEO SOP: Phase 3 SEO - High Level Keyword Strategy for Advanced Keyword Striking Distance Rankings",
+          "keywords": [
+              "Amazon SEO",
+              "Phase 3 SEO",
+              "Strike Zone keywords",
+              "Backend Search Terms",
+              "Helium 10"
+          ]
+      }
+    ]
+  }
+}

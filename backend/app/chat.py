@@ -31,6 +31,10 @@ from pydantic import ConfigDict, Field
 from .constants import MODEL, get_seller_assistant_instructions
 from .facts import Fact, fact_store
 from .memory_store import MemoryStore
+from .reference_images_widget import (
+    reference_images_widget_copy_text,
+    render_reference_images_widget,
+)
 from .sample_widget import render_weather_widget, weather_widget_copy_text
 from .sop_widget import render_sop_widget, sop_widget_copy_text
 from .sops import get_formatted_sop_toc, sop_s3_client
@@ -132,13 +136,13 @@ async def switch_theme(
 
 
 @function_tool(
-    description_override="Retrieve a Standard Operating Procedure from the SOP library by its ID and display it with images."
+    description_override="Retrieve internal SOP content for your reference. Returns the procedure text and image URLs. This information is for your use only - do not display it to the user or mention SOP names."
 )
 async def get_sop(
     ctx: RunContextWrapper[FactAgentContext],
     sop_id: str,
-) -> dict[str, str]:
-    """Fetch and display an SOP from S3 with its content and images."""
+) -> dict[str, str | list[str]]:
+    """Fetch SOP content from S3. Returns content and image URLs for agent to use privately."""
     print(f"[SOPTool] tool invoked with sop_id={sop_id}")
 
     try:
@@ -151,20 +155,15 @@ async def get_sop(
             raise ValueError(error_msg)
 
         print(f"[SOPTool] SOP retrieved: {sop.title}")
+        print(f"[SOPTool] Returning content ({len(sop.content)} chars) and {len(sop.images)} images to agent")
 
-        # Render the SOP widget
-        widget = render_sop_widget(sop)
-        copy_text = sop_widget_copy_text(sop)
-
-        # Stream the widget to the UI
-        await ctx.context.stream_widget(widget, copy_text=copy_text)
-
-        print(f"[SOPTool] Widget streamed successfully for {sop.id}")
-
+        # Return content and images to agent (not displayed to user)
         return {
             "sop_id": sop.id,
             "title": sop.title,
             "category": sop.category,
+            "content": sop.content,
+            "image_urls": sop.images,
             "image_count": str(len(sop.images)),
         }
 
@@ -175,6 +174,49 @@ async def get_sop(
     except Exception as exc:
         error_msg = f"Failed to retrieve SOP '{sop_id}': {str(exc)}"
         print(f"[SOPTool] Unexpected error: {error_msg}")
+        raise ValueError(error_msg) from exc
+
+
+@function_tool(
+    description_override="Display reference images to help the user understand the steps. Pass the image URLs you collected from get_sop calls. Images will be numbered sequentially."
+)
+async def show_reference_images(
+    ctx: RunContextWrapper[FactAgentContext],
+    image_urls: list[str],
+) -> dict[str, str]:
+    """Display a gallery of numbered reference images for the user.
+
+    Args:
+        image_urls: List of pre-signed S3 URLs from SOPs retrieved earlier
+
+    Returns:
+        Status indicating images were displayed
+    """
+    print(f"[ReferenceImagesTool] tool invoked with {len(image_urls)} images")
+
+    try:
+        if not image_urls:
+            print("[ReferenceImagesTool] No images provided, skipping widget")
+            return {"status": "no_images", "message": "No images to display"}
+
+        # Render the reference images widget
+        widget = render_reference_images_widget(image_urls)
+        copy_text = reference_images_widget_copy_text(image_urls)
+
+        # Stream the widget to the UI
+        await ctx.context.stream_widget(widget, copy_text=copy_text)
+
+        print(f"[ReferenceImagesTool] Successfully displayed {len(image_urls)} images")
+
+        return {
+            "status": "success",
+            "image_count": str(len(image_urls)),
+            "message": f"Displayed {len(image_urls)} reference images",
+        }
+
+    except Exception as exc:
+        error_msg = f"Failed to display reference images: {str(exc)}"
+        print(f"[ReferenceImagesTool] Error: {error_msg}")
         raise ValueError(error_msg) from exc
 
 
@@ -259,7 +301,7 @@ class FactAssistantServer(ChatKitServer[dict[str, Any]]):
         instructions = get_seller_assistant_instructions(sop_toc)
 
         # Tools for Seller Assistant
-        tools = [get_sop, switch_theme, save_fact]
+        tools = [get_sop, show_reference_images, switch_theme, save_fact]
 
         self.assistant = Agent[FactAgentContext](
             model=MODEL,

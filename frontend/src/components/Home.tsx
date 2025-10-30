@@ -24,8 +24,24 @@ export default function Home({
 
   return (
     <div className={containerClass}>
-      <div className="mx-auto flex min-h-screen w-full max-w-6xl flex-col-reverse gap-10 px-6 pt-4 pb-10 md:py-10 lg:flex-row">
-        <div className="relative w-full md:w-[45%] flex h-[90vh] items-stretch overflow-hidden rounded-3xl bg-white/80 shadow-[0_45px_90px_-45px_rgba(15,23,42,0.6)] ring-1 ring-slate-200/60 backdrop-blur md:h-[90vh] dark:bg-slate-900/70 dark:shadow-[0_45px_90px_-45px_rgba(15,23,42,0.85)] dark:ring-slate-800/60">
+      <div className="mx-auto flex min-h-screen w-full max-w-5xl flex-col gap-6 px-6 py-8">
+        {/* Header Section - Top */}
+        <header className="space-y-4">
+          <div className="flex flex-wrap items-center justify-between gap-4">
+            <div className="space-y-2">
+              <h1 className="text-3xl font-semibold sm:text-4xl">
+                Amazon Seller Assistant
+              </h1>
+              <p className="max-w-2xl text-sm text-slate-600 dark:text-slate-300">
+                Ask questions about Amazon seller policies and procedures.
+              </p>
+            </div>
+            <ThemeToggle value={scheme} onChange={handleThemeChange} />
+          </div>
+        </header>
+
+        {/* Chat Panel - Below Header */}
+        <div className="relative w-full flex h-[calc(100vh-200px)] items-stretch overflow-hidden rounded-3xl bg-white/80 shadow-[0_45px_90px_-45px_rgba(15,23,42,0.6)] ring-1 ring-slate-200/60 backdrop-blur dark:bg-slate-900/70 dark:shadow-[0_45px_90px_-45px_rgba(15,23,42,0.85)] dark:ring-slate-800/60">
           <ChatKitPanel
             theme={scheme}
             onWidgetAction={performAction}
@@ -33,21 +49,6 @@ export default function Home({
             onThemeRequest={handleThemeChange}
           />
         </div>
-        <section className="flex-1 space-y-8 py-8">
-          <header className="space-y-6">
-            <div className="flex flex-wrap items-center justify-between gap-4">
-              <div className="space-y-3">
-                <h1 className="text-3xl font-semibold sm:text-4xl">
-                  Amazon Seller Assistant
-                </h1>
-                <p className="max-w-xl text-sm text-slate-600 dark:text-slate-300">
-                Ask questions about Amazon seller policies and procedures.
-                </p>
-              </div>
-              <ThemeToggle value={scheme} onChange={handleThemeChange} />
-            </div>
-          </header>
-        </section>
       </div>
     </div>
   );
