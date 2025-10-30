@@ -26,3 +26,8 @@ dist/
 .vite/
 .coverage/
 coverage/
+
+#claude code files
+SELLER_ASSISTANT_README.md
+SELLER_ASSISTANT_SETUP.md
+UNDERSTANDING_CHATKIT_SERVER.md

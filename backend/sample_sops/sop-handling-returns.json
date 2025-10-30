@@ -1,0 +1,13 @@
+{
+  "id": "sop-handling-returns",
+  "title": "How to Handle Customer Returns",
+  "category": "Customer Service",
+  "keywords": ["returns", "refunds", "RMA", "return authorization", "customer service"],
+  "content": "## Overview\nHandling customer returns efficiently is crucial for maintaining good seller metrics and customer satisfaction.\n\n## Step-by-Step Process\n\n### Step 1: Review Return Request\n- Log into Seller Central\n- Navigate to Orders > Manage Returns\n- Review the customer's return reason and comments\n- Check if the return is within the 30-day return window\n\n### Step 2: Approve or Deny Return\n- For eligible returns: Click 'Authorize Request'\n- For ineligible returns: Click 'Deny Request' and provide a clear explanation\n- The system will automatically generate a return label for FBA items\n\n### Step 3: Process Refund\n- Once item is received and inspected\n- Go to Orders > Manage Returns\n- Click 'Refund' and select the appropriate refund amount\n- Process within 48 hours of receiving the item\n\n### Step 4: Update Inventory\n- For FBA: Amazon automatically adds returned items back to inventory if sellable\n- For FBM: Manually inspect item and update inventory accordingly\n- Mark unsellable items for disposal or liquidation\n\n## Important Notes\n- Always respond to return requests within 24 hours\n- Maintain a return rate below 10% to avoid account health issues\n- Consider offering returnless refunds for low-value items to improve customer satisfaction\n\n## Metrics to Monitor\n- Return Dissatisfaction Rate (RDR)\n- Return rate by product\n- Time to process returns",
+  "images": [
+    "s3://seller-assistant-images/returns/return-dashboard.jpg",
+    "s3://seller-assistant-images/returns/authorize-return.jpg",
+    "s3://seller-assistant-images/returns/process-refund.jpg"
+  ],
+  "last_updated": "2024-01-15"
+}

@@ -28,10 +28,12 @@ from chatkit.types import (
 from openai.types.responses import ResponseInputContentParam
 from pydantic import ConfigDict, Field
 
-from .constants import INSTRUCTIONS, MODEL
+from .constants import MODEL, get_seller_assistant_instructions
 from .facts import Fact, fact_store
 from .memory_store import MemoryStore
 from .sample_widget import render_weather_widget, weather_widget_copy_text
+from .sop_widget import render_sop_widget, sop_widget_copy_text
+from .sops import get_formatted_sop_toc, sop_s3_client
 from .weather import (
     WeatherLookupError,
     retrieve_weather,
@@ -130,6 +132,53 @@ async def switch_theme(
 
 
 @function_tool(
+    description_override="Retrieve a Standard Operating Procedure from the SOP library by its ID and display it with images."
+)
+async def get_sop(
+    ctx: RunContextWrapper[FactAgentContext],
+    sop_id: str,
+) -> dict[str, str]:
+    """Fetch and display an SOP from S3 with its content and images."""
+    print(f"[SOPTool] tool invoked with sop_id={sop_id}")
+
+    try:
+        # Fetch SOP from S3
+        sop = await sop_s3_client.get_sop(sop_id)
+
+        if sop is None:
+            error_msg = f"SOP '{sop_id}' not found in the library. Please check the SOP ID and try again."
+            print(f"[SOPTool] {error_msg}")
+            raise ValueError(error_msg)
+
+        print(f"[SOPTool] SOP retrieved: {sop.title}")
+
+        # Render the SOP widget
+        widget = render_sop_widget(sop)
+        copy_text = sop_widget_copy_text(sop)
+
+        # Stream the widget to the UI
+        await ctx.context.stream_widget(widget, copy_text=copy_text)
+
+        print(f"[SOPTool] Widget streamed successfully for {sop.id}")
+
+        return {
+            "sop_id": sop.id,
+            "title": sop.title,
+            "category": sop.category,
+            "image_count": str(len(sop.images)),
+        }
+
+    except ValueError as exc:
+        # Re-raise ValueError for agent to handle
+        print(f"[SOPTool] ValueError: {str(exc)}")
+        raise
+    except Exception as exc:
+        error_msg = f"Failed to retrieve SOP '{sop_id}': {str(exc)}"
+        print(f"[SOPTool] Unexpected error: {error_msg}")
+        raise ValueError(error_msg) from exc
+
+
+@function_tool(
     description_override="Look up the current weather and upcoming forecast for a location and render an interactive weather dashboard."
 )
 async def get_weather(
@@ -199,16 +248,23 @@ def _user_message_text(item: UserMessageItem) -> str:
 
 
 class FactAssistantServer(ChatKitServer[dict[str, Any]]):
-    """ChatKit server wired up with the fact-recording tool."""
+    """ChatKit server wired up with the SOP retrieval tool."""
 
     def __init__(self) -> None:
         self.store: MemoryStore = MemoryStore()
         super().__init__(self.store)
-        tools = [save_fact, switch_theme, get_weather]
+
+        # Get SOP table of contents for instructions
+        sop_toc = get_formatted_sop_toc()
+        instructions = get_seller_assistant_instructions(sop_toc)
+
+        # Tools for Seller Assistant
+        tools = [get_sop, switch_theme, save_fact]
+
         self.assistant = Agent[FactAgentContext](
             model=MODEL,
-            name="ChatKit Guide",
-            instructions=INSTRUCTIONS,
+            name="Seller Assistant",
+            instructions=instructions,
             tools=tools,  # type: ignore[arg-type]
         )
         self._thread_item_converter = self._init_thread_item_converter()
