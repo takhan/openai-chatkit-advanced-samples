@@ -6,6 +6,7 @@ from typing import Any
 
 from chatkit.server import StreamingResult
 from fastapi import Depends, FastAPI, HTTPException, Request, status
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import Response, StreamingResponse
 from starlette.responses import JSONResponse
 
@@ -16,6 +17,15 @@ from .chat import (
 from .facts import fact_store
 
 app = FastAPI(title="ChatKit API")
+
+# Configure CORS
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # In production, replace with specific frontend domain
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 _chatkit_server: FactAssistantServer | None = create_chatkit_server()
 
