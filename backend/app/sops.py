@@ -194,7 +194,7 @@ class SOPTableOfContents:
         except Exception as e:
             logger.error(f"Unexpected error loading TOC file: {e}")
             return {"categories": {}}
-            
+
     def get_formatted_toc(self) -> str:
         """Get formatted table of contents for agent context."""
         lines = ["# Amazon Seller Assistant - SOP Library\n"]
@@ -215,8 +215,8 @@ sop_toc = SOPTableOfContents()
 sop_s3_client = SOPS3Client(
     sop_bucket=os.getenv("SOP_BUCKET", "lumian-sops"),
     images_bucket=os.getenv("IMAGES_BUCKET", "lumian-sop-images"),
-    region=os.getenv("AWS_REGION", "us-east-2"),
-    aws_profile=os.getenv("AWS_PROFILE"),
+    region=os.getenv("AWS_REGION", "us-east-2")
+    #aws_profile=os.getenv("AWS_PROFILE"),
 )
 
 
