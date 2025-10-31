@@ -72,8 +72,9 @@ class SOPS3Client:
         self.images_bucket = images_bucket
         self.region = region
 
-        # Initialize S3 client with AWS profile
+        # Initialize S3 client with AWS profile or credentials
         if aws_profile:
+            # Use named profile (local development)
             session = boto3.Session(profile_name=aws_profile)
             self.s3_client = session.client(
                 "s3",
@@ -81,12 +82,27 @@ class SOPS3Client:
                 config=Config(signature_version="s3v4"),
             )
         else:
-            # Fall back to default credentials (environment variables, IAM role, etc.)
-            self.s3_client = boto3.client(
-                "s3",
-                region_name=region,
-                config=Config(signature_version="s3v4"),
-            )
+            # Use environment variables or IAM role (production)
+            # Explicitly check for credentials in environment variables
+            aws_access_key_id = os.getenv("AWS_ACCESS_KEY_ID")
+            aws_secret_access_key = os.getenv("AWS_SECRET_ACCESS_KEY")
+
+            if aws_access_key_id and aws_secret_access_key:
+                # Explicitly pass credentials
+                self.s3_client = boto3.client(
+                    "s3",
+                    region_name=region,
+                    aws_access_key_id=aws_access_key_id,
+                    aws_secret_access_key=aws_secret_access_key,
+                    config=Config(signature_version="s3v4"),
+                )
+            else:
+                # Fall back to default credential chain (IAM role, etc.)
+                self.s3_client = boto3.client(
+                    "s3",
+                    region_name=region,
+                    config=Config(signature_version="s3v4"),
+                )
 
     async def get_sop(self, sop_id: str) -> SOP | None:
         """Fetch SOP JSON from S3 and parse it."""
