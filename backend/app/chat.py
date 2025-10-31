@@ -26,7 +26,7 @@ from chatkit.types import (
     UserMessageItem,
 )
 from openai.types.responses import ResponseInputContentParam
-from pydantic import ConfigDict, Field
+from pydantic import BaseModel, ConfigDict, Field
 
 from .constants import MODEL, get_seller_assistant_instructions
 from .facts import Fact, fact_store
@@ -38,6 +38,10 @@ from .reference_images_widget import (
 from .sample_widget import render_weather_widget, weather_widget_copy_text
 from .sop_widget import render_sop_widget, sop_widget_copy_text
 from .sops import get_formatted_sop_toc, sop_s3_client
+from .structured_guide_widget import (
+    render_structured_guide_widget,
+    structured_guide_widget_copy_text,
+)
 from .weather import (
     WeatherLookupError,
     retrieve_weather,
@@ -76,6 +80,14 @@ class FactAgentContext(AgentContext):
     model_config = ConfigDict(arbitrary_types_allowed=True)
     store: Annotated[MemoryStore, Field(exclude=True)]
     request_context: dict[str, Any]
+
+
+class GuideStep(BaseModel):
+    """Represents a single step in a structured guide."""
+    step_number: str
+    title: str
+    description: str
+    image_url: str | None = None
 
 
 async def _stream_saved_hidden(ctx: RunContextWrapper[FactAgentContext], fact: Fact) -> None:
@@ -221,6 +233,59 @@ async def show_reference_images(
 
 
 @function_tool(
+    description_override="Display a structured step-by-step guide with inline images. Use this for multi-step procedures where each step has associated images. Pass a list of steps with their descriptions and image URLs."
+)
+async def show_structured_guide(
+    ctx: RunContextWrapper[FactAgentContext],
+    steps: list[GuideStep],
+) -> dict[str, str]:
+    """Display a structured guide with steps and inline images.
+
+    Args:
+        steps: List of GuideStep objects with step_number, title, description, and optional image_url
+
+    Returns:
+        Status indicating guide was displayed
+    """
+    print(f"[StructuredGuideTool] tool invoked with {len(steps)} steps")
+
+    try:
+        if not steps:
+            print("[StructuredGuideTool] No steps provided, skipping widget")
+            return {"status": "no_steps", "message": "No steps to display"}
+
+        # Convert Pydantic models to dicts for the widget renderer
+        steps_dicts = [step.model_dump() for step in steps]
+
+        # Count steps with images
+        steps_with_images = sum(1 for step in steps if step.image_url)
+
+        # Render the structured guide widget
+        widget = render_structured_guide_widget(steps_dicts)
+        copy_text = structured_guide_widget_copy_text(steps_dicts)
+
+        # Stream the widget to the UI
+        await ctx.context.stream_widget(widget, copy_text=copy_text)
+
+        print(
+            f"[StructuredGuideTool] Successfully displayed {len(steps)} steps "
+            f"({steps_with_images} with images)"
+        )
+
+        return {
+            "status": "success",
+            "step_count": str(len(steps)),
+            "image_count": str(steps_with_images),
+            "message": f"Displayed {len(steps)} steps with {steps_with_images} images",
+        }
+
+    except Exception as exc:
+        error_msg = f"Failed to display structured guide: {str(exc)}"
+        print(f"[StructuredGuideTool] Error: {error_msg}")
+        raise ValueError(error_msg) from exc
+
+
+@function_tool(
     description_override="Look up the current weather and upcoming forecast for a location and render an interactive weather dashboard."
 )
 async def get_weather(
@@ -301,7 +366,7 @@ class FactAssistantServer(ChatKitServer[dict[str, Any]]):
         instructions = get_seller_assistant_instructions(sop_toc)
 
         # Tools for Seller Assistant
-        tools = [get_sop, show_reference_images, switch_theme, save_fact]
+        tools = [get_sop, show_structured_guide, show_reference_images, switch_theme]
 
         self.assistant = Agent[FactAgentContext](
             model=MODEL,
